@@ -1,3 +1,8 @@
+---
+title: Transformative Trends in Transit Data
+layout: document
+---
+
 # Home
 
 Welcome to the website for TRB's Transformative Trends in Transit Data Subcommittee.
