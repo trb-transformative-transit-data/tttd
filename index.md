@@ -1,6 +1,5 @@
 ---
 title: Transformative Trends in Transit Data
-layout: document
 ---
 
 # Home
