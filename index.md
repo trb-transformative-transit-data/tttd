@@ -21,6 +21,7 @@ Using a variety of data elements, particularly when they are geocoded, will prov
 # Contact Us
 
 [Catherine Lawson](https://www.albany.edu/gp/lawson.php), chair 
+
 [Raymond Chan](https://www.raychan.me), webmaster
 
 # Files
