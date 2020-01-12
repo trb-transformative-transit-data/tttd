@@ -30,5 +30,6 @@ Michael Eichler, Secretary
 
 * [2015 Meeting at TRB Annual Meeting](minutes/2015_Meeting_Minutes.pdf)
 * [2016 Meeting at TRB Annual Meeting](minutes/2016_Meeting_Minutes.pdf)
-* 2017 Meeting at TRB Annual Meeting - coming soon
-* 2018 Meeting at TRB Annual Meeting - coming soon
+* [2017 Meeting at TRB Annual Meeting](minutes/2017_Meeting_Minutes.pdf)
+* [2018 Meeting at TRB Annual Meeting](minutes/2018_Meeting_Minutes.pdf)
+
