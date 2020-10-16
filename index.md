@@ -1,12 +1,12 @@
 ---
-title: Transformative Trends in Transit Data
+title: TRB Standing Committee on Transit Data - AP090
 ---
 
 # Home
 
-Welcome to the website for TRB's Transformative Trends in Transit Data Subcommittee.
+Welcome to the website for TRB Standing Committee on Transit Data - AP090.
 
-The Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00) focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
+The TRB Standing Committee on Transit Data (formerly Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00)) focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
 
 ## Mission
 
@@ -14,9 +14,14 @@ Transit has traditionally existed in a data-rich environment (e.g., the National
 
 ## Scope
 
-This Joint Subcommittee focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.  For example, electronically-harvested fare data can be "rolled" up to provide accurate financial reporting, but also contains trip-based details, including zones traveled, time of day, zone-specific fare pricing, and other behavioral elements that could inform modeling, ridership forecasting, emergency management, and service efficiency improvements.  With the increasing use of paratransit as feeders to transit, embedded in transit (route deviation) and as local circulators, datasets from non-fixed-route sources are also applicable to these objectives.  Automated Vehicle Location (AVL)/GPS data, primarily intended for customer information, could also be used to track performance of buses, schedule making, and road operations.  When tied together with Automatic Fare Collection (AFC) data a real-time predictive loads and boarding/alighting model could be derived, and potentially used to manage overcrowding in real time.  In addition, agencies need to be encouraged to properly maintain, interpret, and process their Automatic Passenger Counter (APC) data organized by stop id for easy analysis, explore the use of social media data, targeted marketing data, GPS travel data, and real-time in general (as not all is GTFS formatted). 
+This committee focused on the use of foundational and emerging transit data including: Smart Cards; General Transit Feed Specifications (GTFS); archived Intelligent Transportation Systems (ITS) data, including Automatic Vehicle Location (AVL), Automatic Fare Card (AFC), and Automatic Passenger Counters (APC); as well as on-board surveys. Opportunities to blend and fuse these various sources of transit data open new avenues for cost-effective methods for assisting transit agencies with their data needs. Machine Learning (ML) and other techniques will facilitate the formation of new data partnerships with other modes (e.g., Transportation Network Companies (TNCs), bike sharing operations).   
+
+For example, electronically-harvested fare data can be "rolled" up to provide accurate financial reporting, but also contains trip-based details, including zones traveled, time of day, zone-specific fare pricing, and other behavioral elements that could inform modeling, ridership forecasting, emergency management, and service efficiency improvements.  With the increasing use of paratransit as feeders to transit, embedded in transit (route deviation) and as local circulators, datasets from non-fixed-route sources are also applicable to these objectives.  Automated Vehicle Location (AVL)/GPS data, primarily intended for customer information, could also be used to track performance of buses, schedule making, and road operations.  When tied together with Automatic Fare Collection (AFC) data a real-time predictive loads and boarding/alighting model could be derived, and potentially used to manage overcrowding in real time.  In addition, agencies need to be encouraged to properly maintain, interpret, and process their Automatic Passenger Counter (APC) data organized by stop id for easy analysis, explore the use of social media data, targeted marketing data, GPS travel data, and real-time in general (as not all is GTFS formatted). 
 
 Using a variety of data elements, particularly when they are geocoded, will provide transit planners and researchers with new opportunities to plan and understand transit services in new ways.  In addition, new forms of external data used in transit planning, such as Census and American Community Survey (ACS), are being made available as Application Programming Interface (API) products, offering new efficiencies, processing cost–savings, and integration opportunities. 
+
+# Members
+A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
 
 # Contact Us
 
