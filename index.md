@@ -34,7 +34,7 @@ Michael Eichler, Secretary
 ## Meeting Minutes
 
 * [DRAFT 2021 Slideshow](minutes/2021_AP090_Meeting_Slides.pdf)
-* [DRAFT 2021 Research Brainstorming ("Mentimeter")](2021_AP090_mentimeter_results.pdf)
+* [DRAFT 2021 Research Brainstorming ("Mentimeter")](minutes/2021_AP090_mentimeter_results.pdf)
 
 ## Agenda
 
