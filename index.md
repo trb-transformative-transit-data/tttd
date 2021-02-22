@@ -20,6 +20,11 @@ For example, electronically-harvested fare data can be "rolled" up to provide ac
 
 Using a variety of data elements, particularly when they are geocoded, will provide transit planners and researchers with new opportunities to plan and understand transit services in new ways.  In addition, new forms of external data used in transit planning, such as Census and American Community Survey (ACS), are being made available as Application Programming Interface (API) products, offering new efficiencies, processing cost–savings, and integration opportunities. 
 
+## Research
+
+* [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
+
+
 # Members
 A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
 
