@@ -39,25 +39,25 @@ The scope of work aligns with a $45,000 budget and a 10-month turnaround.
 
 Communicate what the synthesis is about in as few words as possible (i.e., the practices the synthesis will document). 
 
-1. **Background**
+2.  **Background**
    - One or two paragraphs providing description of the topic to be studied.  This section gives context for the proposed topic.
    - A synthesis is appropriate when most agencies engage in a practice but they do it differently (i.e., there are no standard guidelines or regulations).
-2. **Synthesis Objective**
+3. **Synthesis Objective**
    - One paragraph is sufficient.
    - Statement of specific practices the synthesis will document. 
-3. **Information To Be Gathered**
+4. **Information To Be Gathered**
    - A bulleted list is recommended.
    - Examples of important aspects of the practices to be documented.
    - The information to be gathered should be factual and not require the opinion of a survey recipient.  
-4. **How the Information Will Be Gathered**
+5. **How the Information Will Be Gathered**
 
 The following activities are typically performed for a synthesis:
+    - Literature review
+        - A survey of agencies
+        - Follow-up interviews with selected agencies for the development of case examples 
+        - Identification of knowledge gaps and suggestions for research to address those gaps
 
-1. - - 1. - Literature review
-          - A survey of agencies
-          - Follow-up interviews with selected agencies for the development of case examples 
-          - Identification of knowledge gaps and suggestions for research to address those gaps
-2. **Information Sources**
+5. **Information Sources**
    - Relevant organizations, individuals, or literature references
    - Literature searches can be conducted on TRID ([http://trid.trb.org](http://www.google.com/url?q=http%3A%2F%2Ftrid.trb.org&sa=D&sntz=1&usg=AFQjCNHq6kSygGs7MgxRqfbXb7f_ZChZ6A)), which includes the Research in Progress database ([http://rip.trb.org/](http://www.google.com/url?q=http%3A%2F%2Frip.trb.org%2F&sa=D&sntz=1&usg=AFQjCNHhsvp87SF6pk_96qK2cxdK0Gn5Rw))
 
