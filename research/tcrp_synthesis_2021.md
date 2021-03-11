@@ -37,7 +37,7 @@ The scope of work aligns with a $45,000 budget and a 10-month turnaround.
 
 1. **Topic Title**
 
-Communicate what the synthesis is about in as few words as possible (i.e., the practices the synthesis will document). 
+    * Communicate what the synthesis is about in as few words as possible (i.e., the practices the synthesis will document). 
 
 2.  **Background**
    - One or two paragraphs providing description of the topic to be studied.  This section gives context for the proposed topic.
@@ -51,11 +51,11 @@ Communicate what the synthesis is about in as few words as possible (i.e., the p
    - The information to be gathered should be factual and not require the opinion of a survey recipient.  
 5. **How the Information Will Be Gathered**
 
-The following activities are typically performed for a synthesis:
-    - Literature review
-        - A survey of agencies
-        - Follow-up interviews with selected agencies for the development of case examples 
-        - Identification of knowledge gaps and suggestions for research to address those gaps
+    * The following activities are typically performed for a synthesis:
+         * Literature review
+              - A survey of agencies
+                  - Follow-up interviews with selected agencies for the development of case examples 
+                  - Identification of knowledge gaps and suggestions for research to address those gaps
 
 5. **Information Sources**
    - Relevant organizations, individuals, or literature references
