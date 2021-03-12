@@ -105,9 +105,11 @@ The tools and skills necessary to manage, analyze, and present data is ever chan
 
 ## Sharing Data
 
-Everyone wants more data and many times we know where the data is.  However, gatekeepers restrict access to datasets for various reasons.  How do agencies manage data access such that they provide ample access without interfering with production or operating environments.  What sort of budgets and techniques do agencies provide internally and externally to better share data with partners, internal and external?  What organizational barriers exist and how do agencies work to reduce these barriers?
+~~Everyone wants more data and many times we know where the data is.  However, gatekeepers restrict access to datasets for various reasons.  How do agencies manage data access such that they provide ample access without interfering with production or operating environments.  What sort of budgets and techniques do agencies provide internally and externally to better share data with partners, internal and external?  What organizational barriers exist and how do agencies work to reduce these barriers?~~
 
 **Related to Data Management and use on [AP010 TCRP Synthesis proposed research](https://www.trb-transit-mgmt-perf.org/research/synthesis_2021#h.e99tp1cioy2z)**
+
+[TCRP Report 214](http://www.trb.org/Main/Blurbs/180188.aspx) is something we should read first before sending this!  Thanks [Cecelia Viggiano (EBP)](https://www.linkedin.com/in/cecilia-viggiano-16aa4332/) for doing the work and sharing.  National Acadamies has a nice [blurb](https://www.nationalacademies.org/trb/blog/data-sharing-presents-major-opportunities-for-transportation) on this.
 
 # Other ways to help
 
