@@ -36,6 +36,8 @@ Michael Eichler, Secretary
 
 # Files
 
+## [2022 Transit Data Challenge Call for Submissions, due 9/15/21](https://drive.google.com/file/d/10DaOTB-R5ISDdRd2dYLp1jm__Iz3zodn/view)
+
 ## Meeting Minutes
 
 * [DRAFT 2021 Slideshow](minutes/2021_01_AP090_Meeting_Slides.pdf)
