@@ -16,6 +16,8 @@
 
 ## Workshop agenda  
 
+Download a more detailed description of the session [here](workshop_files/AP090-TRBAM-workshop-propo-Jun2021.pdf)
+
 | **Time** | **Item**                                       |
 | -------- | ---------------------------------------------- |
 | 1:30 PM  | Welcome and  Introductions                     |
