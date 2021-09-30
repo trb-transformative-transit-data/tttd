@@ -7,11 +7,15 @@
 ## Pre-requisites needed for the workshop  
 
 * a laptop
-* running pyhon, R and R Studio (including git)
-[or]
+* running pyhon, R and R Studio (including git)  
+
+[or]  
+
 * a laptop
-* with an internet connection to a jupyter notebook server 
-[or]
+* with an internet connection to a jupyter notebook server   
+
+[or]  
+
 * an ability to take notes and follow along for later reference
 
 ## Workshop agenda  
