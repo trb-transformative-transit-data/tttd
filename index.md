@@ -30,16 +30,23 @@ A complete and updated list of members is located on [MyTRB](https://www.mytrb.o
 
 # Contact Us
 
-[Catherine Lawson](https://www.albany.edu/gp/lawson.php), chair 
-Michael Eichler, Secretary
-[Raymond Chan](https://www.raychan.me), webmaster
+Join the conversation on Slack! 
+
+The Slack Channel is hosted by MobilityData. Request to join their Slack [here](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
+
+[Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair 
+Michael Eichler, Vice Chair
+[Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
+[Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
+Eric Lind, Paper review coordinator
+Nathanael Tan, Younger Member coordinator
+(TBD), Committee communications coordinator
 
 # Files
 
-* [2022 Transit Data Challenge Call for Submissions, due 9/15/21](https://drive.google.com/file/d/10DaOTB-R5ISDdRd2dYLp1jm__Iz3zodn/view)
-
 ## Meeting Minutes
 
+* [2022 Annual Meeting](https://docs.google.com/presentation/d/1PaeT-6BNLZ0cuSABlqOu6JHFf-jdbY2B5TpDafPX6og/edit#slide=id.g10af89e44fb_0_38)
 * [DRAFT 2021 Slideshow](minutes/2021_01_AP090_Meeting_Slides.pdf)
 * [DRAFT 2021 Research Brainstorming ("Mentimeter")](minutes/2021_01_AP090_mentimeter_results.pdf)
 * [Quarterly March 2021 Slides](minutes/2021_03_AP090_Slides.pdf)
