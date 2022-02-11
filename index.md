@@ -34,13 +34,13 @@ Join the conversation on Slack!
 
 The Slack Channel is hosted by MobilityData. Request to join their Slack [here](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
 
-[Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair 
-Michael Eichler, Vice Chair
-[Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
-[Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
-Eric Lind, Paper review coordinator
-Nathanael Tan, Younger Member coordinator
-(TBD), Committee communications coordinator
+* [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair 
+* Michael Eichler, Vice Chair
+* [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
+* [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
+* Eric Lind, Paper review coordinator
+* Nathanael Tan, Younger Member coordinator
+* (TBD), Committee communications coordinator
 
 # Files
 
