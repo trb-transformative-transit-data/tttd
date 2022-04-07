@@ -75,6 +75,5 @@ The Slack Channel is hosted by MobilityData. Request to join their Slack [here](
 ## Agenda
 * [2020 Agenda at TRB Annual Meeting](minutes/AP000(3)_files/2020_Agenda.pdf)
 
-  
-
-
+## Disclaimer
+Any opinions, findings, or conclusions expressed on this website are those of the authors and do not necessarily reflect the views of the Transportation Research Board or The National Academies of Sciences, Engineering, and Medicine.
