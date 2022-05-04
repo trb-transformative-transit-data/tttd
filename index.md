@@ -40,7 +40,7 @@ The Slack Channel is hosted by MobilityData. Request to join their Slack [here](
 * [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
 * Eric Lind, Paper review coordinator
 * Nathanael Tan, Younger Member coordinator
-* (TBD), Committee communications coordinator
+* Derald Dudley, Committee communications coordinator
 
 # Files
 
