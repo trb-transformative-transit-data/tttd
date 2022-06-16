@@ -30,7 +30,7 @@ A complete and updated list of members is located on [MyTRB](https://www.mytrb.o
 
 # Contact Us
 
-[Join the conversation on Slack!] (https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
+[Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
 
 [Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
 
