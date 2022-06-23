@@ -34,6 +34,8 @@ A complete and updated list of members is located on [MyTRB](https://www.mytrb.o
 
 [Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
 
+[Submit a link to our monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
+
 The Slack Channel is hosted by MobilityData. Request to join their Slack [here](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
 
 * [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair 
