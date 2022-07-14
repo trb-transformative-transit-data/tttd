@@ -8,6 +8,8 @@ Welcome to the website for TRB Standing Committee on Transit Data - AP090.
 
 The TRB Standing Committee on Transit Data (formerly Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00)) focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
 
+**Become a friend of the committee at [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433) (Press the "Become a Friend of this Committee" blue button)**
+
 ## Mission
 
 Transit has traditionally existed in a data-rich environment (e.g., the National Transit Database (NTD).  Previously collected manually, many of the data elements can now be assembled from equipment-generated data streams (e.g., Automatic Passenger Counts).  Within a transit agency, internal operations, financial reporting, ridership programs, and other transit activities all generate, or manipulate specific data elements to serve specific in-house users.  Along with the use of GIS tools by transit dispatchers and managers to monitor service on the street, the creation and implementation of General Transit Feed Specifications (GTFS) and GTFS-Real-time, now provides transit customers with web and smart phone-accessible scheduling and transit service navigation information.  This Joint Subcommittee seeks to foster coordination, communication, and research exploration among transit agencies and researchers, and the broader transportation data community. 
