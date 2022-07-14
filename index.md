@@ -45,7 +45,6 @@ The Slack Channel is hosted by MobilityData. Request to join their Slack [here](
 * [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
 * [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
 * Eric Lind, Paper review coordinator
-* Nathanael Tan, Younger Member coordinator
 * Derald Dudley, Committee communications coordinator
 
 # Files
