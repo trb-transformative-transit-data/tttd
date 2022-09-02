@@ -26,6 +26,15 @@ Using a variety of data elements, particularly when they are geocoded, will prov
 
 * [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 
+# Newsletter
+- [August 2022](https://drive.google.com/file/d/1k2CCaqNPNI8vjAqJxubv7JfFs93OGh6R/view?usp=sharing)
+
+[Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
+
+## Past Issues
+- [July 2022](https://drive.google.com/file/d/1wYSGsHhosgaGJNPNWaNO1tVuevZO-qwN/view?usp=sharing)
+- [June 2022](https://drive.google.com/file/d/13W_6etvOhsiyvNf6iGV6Z84ZKdhhshZH/view?usp=sharing)
+- [April 2022](https://drive.google.com/file/d/1Y_HP8m8RbJyRRVybalFOzMhhuU2J5xbJ/view?usp=sharing)
 
 # Members
 A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
@@ -35,8 +44,6 @@ A complete and updated list of members is located on [MyTRB](https://www.mytrb.o
 [Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
 
 [Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
-
-[Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 The Slack Channel is hosted by MobilityData. Request to join their Slack [here](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
 
