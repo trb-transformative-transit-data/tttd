@@ -59,6 +59,8 @@ The Slack Channel is hosted by MobilityData. Request to join their Slack [here](
 
 ## Meeting Minutes
 
+* [Fall 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1dk85oDCJMwikCk4lRbSVnQyeuZne0VDTNWe4m786pwA/edit?usp=sharing)
+* [Summer 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1jrHK-Omh0i_nPNrjt4fudGcZAcJ3yWw4oXycJ4ioiok/edit?usp=sharing)
 * [Spring 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1yt1-8HvCLxYc9x13_IiXXJXAVICYn_9Xzurc0BRkr2Q/edit?usp=sharing)
 * [2022 Annual Meeting](https://docs.google.com/presentation/d/1PaeT-6BNLZ0cuSABlqOu6JHFf-jdbY2B5TpDafPX6og/edit#slide=id.g10af89e44fb_0_38)
 * [Fall 2022 Quarterly Meeting](minutes/2021_10_AP090_Meeting_Slides.pdf)
