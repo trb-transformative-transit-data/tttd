@@ -27,11 +27,12 @@ Using a variety of data elements, particularly when they are geocoded, will prov
 * [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 
 # Newsletter
-- [November 2022](https://drive.google.com/file/d/12niFOXsEI2iYfdD2fef3CV2OTXmRjF17/view?usp=sharing)
+- [December 2022](https://drive.google.com/file/d/1L_CJYH3RKLwC4iOUryQMIbb4liacjFUw/view?usp=share_link)
 
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 ## Past Issues
+- [November 2022](https://drive.google.com/file/d/12niFOXsEI2iYfdD2fef3CV2OTXmRjF17/view?usp=sharing)
 - [October 2022](https://drive.google.com/file/d/1oODLzh9bFdBmQa0eyTQgY6GEFV_4ioSA/view?usp=sharing)
 - [September 2022](https://drive.google.com/file/d/1g861JklyvAeibrMOzyYZ6VvDZPfIoWtx/view?usp=sharing)
 - [August 2022](https://drive.google.com/file/d/1k2CCaqNPNI8vjAqJxubv7JfFs93OGh6R/view?usp=sharing)
