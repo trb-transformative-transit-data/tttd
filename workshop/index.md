@@ -1,18 +1,14 @@
-# [DRAFT] 2022 TRB Annual Meeting Transit Data Workshop
+# 2023 TRB Annual Meeting Transit Data Workshop
 
-[Open-Source Tools for Transit Data: Hands-On Code for Interactive Visualizations](https://annualmeeting.mytrb.org/Workshop/Details/17065)
+[Open-Source Tools for Transit Data: Hands-On Code for Interactive Visualizations](https://annualmeeting.mytrb.org/OnlineProgram/Details/18922)
 
-**Date/Time: Sunday, Jan 9 1:30 PM to 4:30 PM EST**  
+**Date/Time: Sunday, Jan 8 1:30 PM to 4:30 PM EST** 
+**Place: Convention Center 147A**
 
 ## Pre-requisites needed for the workshop  
 
 * a laptop
 * running pyhon, R and R Studio (including git)  
-
-[or]  
-
-* a laptop
-* with an internet connection to a jupyter notebook server   
 
 [or]  
 
@@ -24,23 +20,28 @@ Download a more detailed description of the session [here](workshop_files/AP090-
 
 | **Time** | **Item**                                       |
 | -------- | ---------------------------------------------- |
-| 1:30 PM  | Welcome and  Introductions                     |
-| 1:40 PM  | Working with Transit Data in Code              |
-|		   |	- why code?									|
-|		   | 	- how to pull and use code (GitHub)			|
-| 2:00 PM  | Standards and code: TCRP G-18 update			|
-| 2:15 PM  | Introduction to Case Studies					|
-| 2:20 PM  | Break & Breakout								|
-| 2:30 PM  | Hands-on case studies (in parallel)			|
+| 1:30 PM  | Welcome and  Introductions; "pre-test"         |
+| 1:45 PM  | Intro to Transit Data [Lind]					|
+|		   |	- acronyms; people data						|
+|		   | 	- challenges with transit data				|
+| 2:00 PM  | EXERCISE 1: Aggregation		                |
+| 2:20 PM  | Why code? [Eichler]							|
+| 2:45 PM  | EXERCISE 2: Clean & Join						|
+| 3:15 PM  | Sharing Code: GitHub repos [Chan]				|
+| 3:30 PM  | EXERCISE 3: Visualization						|
+| 4:00 PM  | Transit data standards: TIDES [Reid]			|
+| 4:15 PM  | DISCUSSION: killer apps & code sharing			|
+
+## Exercises
+
 | 		   | 	- GTFS: schedule change over time			|
 | 		   | 	- APC: ridership timeseries 				|
 | 		   | 	- AVL: speed & delay 						|
 | 		   | 	- AFC: classifying riders					|
-| 4:00 PM  | Discussion, future collaboration				|
-| 4:20 PM  | Wrap-up and report out							|
 
 ## Materials will be provided  
 
  * code, in the form of a repository for each case study
  * data, in the form of a downloadable dataset appropriate to the Code
  * output, where appropriate, in the form of publicly shared resources
+ * _Fun,_ with data
