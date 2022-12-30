@@ -31,7 +31,11 @@
 | 4:00 PM  | Transit data standards: TIDES [Reid]			|
 | 4:15 PM  | DISCUSSION: killer apps & code sharing			|
 
-## Exercises
+## Exercises  
+
+* **APC** How is ridership looking?  
+* **AVL & GTFS** Plans, meet operations  
+* **AFC** Getting creative with passenger flows
 
 ## Materials will be provided  
 
