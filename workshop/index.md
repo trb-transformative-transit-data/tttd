@@ -2,13 +2,14 @@
 
 [Open-Source Tools for Transit Data: Hands-On Code for Interactive Visualizations](https://annualmeeting.mytrb.org/OnlineProgram/Details/18922)
 
-**Date/Time: Sunday, Jan 8 1:30 PM to 4:30 PM EST** 
+**Date/Time: Sunday, Jan 8 1:30 PM to 4:30 PM EST**  
 **Place: Convention Center 147A**
 
 ## Pre-requisites needed for the workshop  
 
 * a laptop
-* running pyhon, R and R Studio (including git)  
+* running python or R+R Studio  
+* with optional git install + GitHub account
 
 [or]  
 
@@ -33,11 +34,6 @@ Download a more detailed description of the session [here](workshop_files/AP090-
 | 4:15 PM  | DISCUSSION: killer apps & code sharing			|
 
 ## Exercises
-
-| 		   | 	- GTFS: schedule change over time			|
-| 		   | 	- APC: ridership timeseries 				|
-| 		   | 	- AVL: speed & delay 						|
-| 		   | 	- AFC: classifying riders					|
 
 ## Materials will be provided  
 
