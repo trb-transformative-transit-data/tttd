@@ -5,6 +5,8 @@
 **Date/Time: Sunday, Jan 8 1:30 PM to 4:30 PM EST**  
 **Place: Convention Center 147A**
 
+### [Take a pre-workshop quiz to help us plan](https://www.menti.com/alwc3df6hd5o)
+
 ## Pre-requisites needed for the workshop  
 
 * a laptop
