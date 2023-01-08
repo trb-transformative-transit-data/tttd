@@ -35,9 +35,9 @@
 
 ## Exercises  
 
-* **APC** How is ridership looking?  
-* **AVL & GTFS** Plans, meet operations  
-* **AFC** Getting creative with passenger flows
+* [**APC** How is ridership looking?](exercise-1/)
+* [**AVL & GTFS** Plans, meet operations](exercise-2/)  
+* [**AFC** Getting creative with passenger flows](exercise-3)
 
 ## Materials will be provided  
 
