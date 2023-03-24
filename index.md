@@ -26,6 +26,25 @@ Inform decision making throughout the transit industry with use of key data and 
 
 * [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 
+# Webinar Series
+The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics.  To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or  [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).  
+
+Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
+
+Next Session:  Agency Spotlight - DOT/BTS [RSVP Online!](https://events.teams.microsoft.com/event/73dbba6f-0403-47e1-94ce-bcd2240627e9@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
+
+Past Sessions:
+- Real-time crowding data
+- Transit Surveys
+- Agency Spotlight - WMATA
+- Transit Data Therapy
+- Deploying Research: Origin-Destination-Transfer Inference Models
+- Open data standards
+- Agency Spotlight - MTC (SF Bay Area)
+- Agency Spotlight - Sound Transit
+- Multi-Agency Performance Measurement
+- Agency Spotlight - RTD
+
 # Newsletter
 - [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
@@ -52,7 +71,7 @@ A complete and updated list of members is located on [MyTRB](https://www.mytrb.o
 
 [Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
 
-The Slack Channel is hosted by MobilityData. Request to join their Slack [here](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
+The Slack Channel is hosted by MobilityData.  [Request to join their Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
 
 * [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair 
 * Michael Eichler, Vice Chair
