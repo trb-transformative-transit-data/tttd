@@ -80,22 +80,7 @@ The Slack Channel is hosted by MobilityData. Request to join their Slack [here](
 
 # Former Subcommittee Files
 
-## Meeting Minutes
-
-* [2015 Meeting at TRB Annual Meeting](minutes/AP000(3)_files/2015_Meeting_Minutes.pdf)
-
-* [2016 Meeting at TRB Annual Meeting](minutes/AP000(3)_files/2016_Meeting_Minutes.pdf)
-
-* [2017 Meeting at TRB Annual Meeting](minutes/AP000(3)_files/2017_Meeting_Minutes.pdf)
-
-* [2018 Meeting at TRB Annual Meeting](minutes/AP000(3)_files/2018_Meeting_Minutes.pdf)
-
-* [2019 Meeting at TRB Annual Meeting](minutes/AP000(3)_files/2019_Meeting_Minutes.pdf)
-
-* [2020 Meeting at TRB Annual Meeting](minutes/AP000(3)_files/2020_Meeting_Minutes.pdf)
-
-## Agenda
-* [2020 Agenda at TRB Annual Meeting](minutes/AP000(3)_files/2020_Agenda.pdf)
+Files from our predecessor entity (the TRB Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00)) are available [here](https://github.com/trb-transformative-transit-data/tttd/tree/master/minutes).
 
 ## Disclaimer
 Any opinions, findings, or conclusions expressed on this website are those of the authors and do not necessarily reflect the views of the Transportation Research Board or The National Academies of Sciences, Engineering, and Medicine.
