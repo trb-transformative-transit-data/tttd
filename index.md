@@ -19,7 +19,7 @@ Inform decision making throughout the transit industry with use of key data and 
 - Document transit data sources (AVL, AFC, GTFS, Surveys, travel demand model outputs, Internet of Things, Location-based Services), tools (Databases, GIS, emerging data science tools, stats packages, BI tools, GTFS-RT Location and Occupancy models), research topics, and data governance issues
 - Document barriers to acquiring, interfacing, and using data
 - Identify, establish, and maintain connections to collaborate on achieving the mission; especially with other relevant TRB committees and external organizations; help organize webinars and workshops
-- Create a nd maintain a membership path to increase competency in developing and using transit data
+- Create and maintain a membership path to increase competency in developing and using transit data
 - Develop calls for research in meetings and small group chats
 
 ## Research
