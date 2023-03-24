@@ -27,12 +27,13 @@ Inform decision making throughout the transit industry with use of key data and 
 * [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 
 # Newsletter
-- [January 2023](https://mailchi.mp/cd1f43600b99/trb-ap090-december-newsletter-5852725)
-
+- [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
 ## Past Issues
+- [February 2023](https://mailchi.mp/1a364312e6ba/trb-ap090-december-newsletter-5856577)
+- [January 2023](https://mailchi.mp/cd1f43600b99/trb-ap090-december-newsletter-5852725)
 - [December 2022](https://drive.google.com/file/d/1L_CJYH3RKLwC4iOUryQMIbb4liacjFUw/view?usp=share_link)
 - [November 2022](https://drive.google.com/file/d/12niFOXsEI2iYfdD2fef3CV2OTXmRjF17/view?usp=sharing)
 - [October 2022](https://drive.google.com/file/d/1oODLzh9bFdBmQa0eyTQgY6GEFV_4ioSA/view?usp=sharing)
@@ -58,7 +59,6 @@ The Slack Channel is hosted by MobilityData. Request to join their Slack [here](
 * [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
 * [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
 * Eric Lind, Paper review coordinator
-* Derald Dudley, Committee communications coordinator
 
 # Files
 
