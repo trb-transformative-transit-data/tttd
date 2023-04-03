@@ -47,7 +47,9 @@ Past Sessions:
 
 # Newsletter
 - [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
+
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
+
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
 ## Past Issues
