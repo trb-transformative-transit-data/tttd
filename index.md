@@ -31,7 +31,7 @@ The committee members and friends host a monthly Inter-Agency Transit Data Webin
 
 Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
 
-Next Session:  Agency Spotlight - DOT/BTS [RSVP Online!](https://events.teams.microsoft.com/event/73dbba6f-0403-47e1-94ce-bcd2240627e9@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
+Next Session:  Transit Data Governance [RSVP Online!](https://events.teams.microsoft.com/event/4046aba9-6b3a-4b66-bc3f-9532ffbddd62@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
 
 Past Sessions:
 - Real-time crowding data
@@ -44,6 +44,7 @@ Past Sessions:
 - Agency Spotlight - Sound Transit
 - Multi-Agency Performance Measurement
 - Agency Spotlight - RTD
+- Agency Spotlight - BTS
 
 # Newsletter
 - [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
