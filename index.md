@@ -47,13 +47,14 @@ Past Sessions:
 - Agency Spotlight - BTS
 
 # Newsletter
-- [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
+- [April 2023](https://docs.google.com/document/d/e/2PACX-1vSXMY5j36FOwTVF7-ONW8z-u2FOEKycpDcpEk3GArgC5LfKYgrsQ3e8m_m9J5o2KUb5k8pIlMv4_ZPu/pub)
 
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
 ## Past Issues
+- [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
 - [February 2023](https://mailchi.mp/1a364312e6ba/trb-ap090-december-newsletter-5856577)
 - [January 2023](https://mailchi.mp/cd1f43600b99/trb-ap090-december-newsletter-5852725)
 - [December 2022](https://drive.google.com/file/d/1L_CJYH3RKLwC4iOUryQMIbb4liacjFUw/view?usp=share_link)
