@@ -47,6 +47,7 @@ Past Sessions:
 - Agency Spotlight - BTS
 
 # Newsletter
+## Current Issue
 - [April 2023](https://docs.google.com/document/d/e/2PACX-1vSXMY5j36FOwTVF7-ONW8z-u2FOEKycpDcpEk3GArgC5LfKYgrsQ3e8m_m9J5o2KUb5k8pIlMv4_ZPu/pub)
 
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
