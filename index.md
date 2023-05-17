@@ -31,7 +31,7 @@ The committee members and friends host a monthly Inter-Agency Transit Data Webin
 
 Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
 
-Next Session:  Transit Data Governance [RSVP Online!](https://events.teams.microsoft.com/event/4046aba9-6b3a-4b66-bc3f-9532ffbddd62@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
+Next Session:  Bus Control Strategies - Young Member Spotlight: [RSVP Online!](https://us06web.zoom.us/webinar/register/WN_1swQWG1AT6-7iCa93Oju_Q)
 
 Past Sessions:
 - Real-time crowding data
@@ -45,6 +45,7 @@ Past Sessions:
 - Multi-Agency Performance Measurement
 - Agency Spotlight - RTD
 - Agency Spotlight - BTS
+- Transit Data Governance featuring MARTA
 
 # Newsletter
 ## Current Issue
