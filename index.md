@@ -49,13 +49,14 @@ Past Sessions:
 
 # Newsletter
 ## Current Issue
-- [May 2023](https://docs.google.com/document/d/e/2PACX-1vRc6lfLrB4cmNvM_UChl0imVKQw2qI2H1bLKJZbyMLdOIBwkPy2VDtU5HF4W-V6nKSgMtS9wgj-Np8Y/pub)
+- [June 2023](https://docs.google.com/document/d/e/2PACX-1vStX1RjgFUp4UUYWO7WLsNFlgdAIL8npsyQqbYzc4r3oKyjYooInK7X_KUnveoe9kS8zMNEv7u8iKg2/pub)
 
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
 ## Past Issues
+- [May 2023](https://docs.google.com/document/d/e/2PACX-1vRc6lfLrB4cmNvM_UChl0imVKQw2qI2H1bLKJZbyMLdOIBwkPy2VDtU5HF4W-V6nKSgMtS9wgj-Np8Y/pub)
 - [April 2023](https://docs.google.com/document/d/e/2PACX-1vSXMY5j36FOwTVF7-ONW8z-u2FOEKycpDcpEk3GArgC5LfKYgrsQ3e8m_m9J5o2KUb5k8pIlMv4_ZPu/pub)
 - [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
 - [February 2023](https://mailchi.mp/1a364312e6ba/trb-ap090-december-newsletter-5856577)
@@ -85,6 +86,7 @@ The Slack Channel is hosted by MobilityData.  [Request to join their Slack](http
 * [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
 * [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
 * Eric Lind, Paper review coordinator
+* Anson Stewart, Communications Coordinator (interim)
 
 # Files
 
