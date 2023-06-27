@@ -31,7 +31,7 @@ The committee members and friends host a monthly Inter-Agency Transit Data Webin
 
 Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
 
-Next Session:  Bus Control Strategies - Young Member Spotlight: [RSVP Online!](https://us06web.zoom.us/webinar/register/WN_1swQWG1AT6-7iCa93Oju_Q)
+Next Session:  Advanced Geospatial Data Visualization in Python - Young Member Spotlight: [RSVP Online!](https://events.teams.microsoft.com/event/280fb356-d88e-4486-9d04-7db9b2c85a78@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
 
 Past Sessions:
 - Real-time crowding data
@@ -46,6 +46,7 @@ Past Sessions:
 - Agency Spotlight - RTD
 - Agency Spotlight - BTS
 - Transit Data Governance featuring MARTA
+- Bus Control Strategies
 
 # Newsletter
 ## Current Issue
