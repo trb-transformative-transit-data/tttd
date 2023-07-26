@@ -93,6 +93,7 @@ The Slack Channel is hosted by MobilityData.  [Request to join their Slack](http
 
 ## Meeting Minutes
 
+* [Summer 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1t9vk2cqGXKxeDzJbb6kmBwyCvXTTZ6oxh_weypaVs60/edit?usp=sharing)
 * [2023 Annual Meeting (virtual)](https://docs.google.com/presentation/d/1PNw0Hqpk_mnir3gDCaxUtkMesKO0_uOZTy2Yd3sJxoQ/edit?usp=sharing)
 * [2023 Annual Meeting (in-person)](https://docs.google.com/presentation/d/1mlhOkx8SLKIaTr9GBtmkUTRUQ9DWKlUfk0A1h0DoFtE/edit?usp=sharing)
 * [Fall 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1dk85oDCJMwikCk4lRbSVnQyeuZne0VDTNWe4m786pwA/edit?usp=sharing)
