@@ -50,13 +50,16 @@ Past Sessions:
 
 # Newsletter
 ## Current Issue
-- [June 2023](https://docs.google.com/document/d/e/2PACX-1vStX1RjgFUp4UUYWO7WLsNFlgdAIL8npsyQqbYzc4r3oKyjYooInK7X_KUnveoe9kS8zMNEv7u8iKg2/pub)
+- [September 2023](https://docs.google.com/document/d/e/2PACX-1vQXpu9N3p9LLQ-pyYmzetIWepRYNYBLVaj4VTV4D0MUe3baliUK9Mlq-tmEzt0OMdSlShsLs1VXp923/pub)
 
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
 ## Past Issues
+- [August 2023](https://docs.google.com/document/d/e/2PACX-1vSU8ViQq1HowuEga2BBHdpLtZAjygD-yt5nEXRcQW1CCezgfS7qda2FB_B3CuSCnDwoSHYiOxl4SjDn/pub)
+- [July 2023](https://docs.google.com/document/d/e/2PACX-1vR8HvT_iFOYFf7WfXkp7GRwrbjWJt2psAIDyjsz9ZEVKO5xDTQDj8rxeomofbko7OtCaBoPl38s1Ehy/pub)
+- [June 2023](https://docs.google.com/document/d/e/2PACX-1vStX1RjgFUp4UUYWO7WLsNFlgdAIL8npsyQqbYzc4r3oKyjYooInK7X_KUnveoe9kS8zMNEv7u8iKg2/pub)
 - [May 2023](https://docs.google.com/document/d/e/2PACX-1vRc6lfLrB4cmNvM_UChl0imVKQw2qI2H1bLKJZbyMLdOIBwkPy2VDtU5HF4W-V6nKSgMtS9wgj-Np8Y/pub)
 - [April 2023](https://docs.google.com/document/d/e/2PACX-1vSXMY5j36FOwTVF7-ONW8z-u2FOEKycpDcpEk3GArgC5LfKYgrsQ3e8m_m9J5o2KUb5k8pIlMv4_ZPu/pub)
 - [March 2023](https://mailchi.mp/435bac76f337/trb-ap090-november-mid-month-update-5859477)
