@@ -36,27 +36,33 @@ Next Session:  Advanced Geospatial Data Visualization in Python - Young Member S
 Past Sessions:
 - Real-time crowding data
 - Transit Surveys
-- Agency Spotlight - WMATA
 - Transit Data Therapy
 - Deploying Research: Origin-Destination-Transfer Inference Models
 - Open data standards
-- Agency Spotlight - MTC (SF Bay Area)
-- Agency Spotlight - Sound Transit
+- Agency Spotlights
+  - MTC (SF Bay Area)
+  - RTD (Denver)
+  - US Bureau of Transportation Statistics: National Transit Map
+  - LA Metro
+  - SoundTransit (Seattle)
+  - WMATA (DC)
 - Multi-Agency Performance Measurement
-- Agency Spotlight - RTD
-- Agency Spotlight - BTS
 - Transit Data Governance featuring MARTA
-- Bus Control Strategies
+- Open Source Tools for Transit Data Infrastructure
+- Young Member Spotlight Sessions
+  - Advanced geospatial data visualization in Python
+  - Bus control strategies
+- OpenTripPlanner ([slides](https://teams.microsoft.com/l/message/19:meeting_ZGUzM2IzMGUtYWE4OS00MGFmLTk0YTktMTkzMzFhMjJhZTYy@thread.v2/1698348214571?context=%7B%22contextType%22%3A%22chat%22%7D))
 
 # Newsletter
 ## Current Issue
-- [September 2023](https://docs.google.com/document/d/e/2PACX-1vQXpu9N3p9LLQ-pyYmzetIWepRYNYBLVaj4VTV4D0MUe3baliUK9Mlq-tmEzt0OMdSlShsLs1VXp923/pub)
-
+- [October 2023](https://docs.google.com/document/d/e/2PACX-1vSHVNREeDGsXQyunolMuFOJoob_lm7JBL4DCE4x2nnrztn5NkHrV4VCujJwRSBLNdrs6dpBNsixzrzN/pub)
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
 ## Past Issues
+- [September 2023](https://docs.google.com/document/d/e/2PACX-1vQXpu9N3p9LLQ-pyYmzetIWepRYNYBLVaj4VTV4D0MUe3baliUK9Mlq-tmEzt0OMdSlShsLs1VXp923/pub)
 - [August 2023](https://docs.google.com/document/d/e/2PACX-1vSU8ViQq1HowuEga2BBHdpLtZAjygD-yt5nEXRcQW1CCezgfS7qda2FB_B3CuSCnDwoSHYiOxl4SjDn/pub)
 - [July 2023](https://docs.google.com/document/d/e/2PACX-1vR8HvT_iFOYFf7WfXkp7GRwrbjWJt2psAIDyjsz9ZEVKO5xDTQDj8rxeomofbko7OtCaBoPl38s1Ehy/pub)
 - [June 2023](https://docs.google.com/document/d/e/2PACX-1vStX1RjgFUp4UUYWO7WLsNFlgdAIL8npsyQqbYzc4r3oKyjYooInK7X_KUnveoe9kS8zMNEv7u8iKg2/pub)
