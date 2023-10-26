@@ -27,11 +27,11 @@ Inform decision making throughout the transit industry with use of key data and 
 * [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 
 # Webinar Series
-The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics.  To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or  [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).  
+The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics. To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).  
 
 Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
 
-Next Session:  Advanced Geospatial Data Visualization in Python - Young Member Spotlight: [RSVP Online!](https://events.teams.microsoft.com/event/280fb356-d88e-4486-9d04-7db9b2c85a78@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
+Next Session: Data-Driven Bus Priority. November 29. Register [here](https://events.teams.microsoft.com/event/4ce666d5-2f8a-4cab-973c-d6a0ef488630@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
 
 Past Sessions:
 - Real-time crowding data
@@ -57,6 +57,7 @@ Past Sessions:
 # Newsletter
 ## Current Issue
 - [October 2023](https://docs.google.com/document/d/e/2PACX-1vSHVNREeDGsXQyunolMuFOJoob_lm7JBL4DCE4x2nnrztn5NkHrV4VCujJwRSBLNdrs6dpBNsixzrzN/pub)
+
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
