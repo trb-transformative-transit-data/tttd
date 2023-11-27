@@ -52,7 +52,7 @@ Past Sessions:
 - Young Member Spotlight Sessions
   - Advanced geospatial data visualization in Python
   - Bus control strategies
-- OpenTripPlanner ([slides](https://teams.microsoft.com/l/message/19:meeting_ZGUzM2IzMGUtYWE4OS00MGFmLTk0YTktMTkzMzFhMjJhZTYy@thread.v2/1698348214571?context=%7B%22contextType%22%3A%22chat%22%7D))
+- OpenTripPlanner ([slides](https://drive.google.com/file/d/1YE_o6avA3SF5rdHftfTzWz5cZM_JdDcp/view?usp=drive_link))
 
 # Newsletter
 ## Current Issue
