@@ -53,6 +53,9 @@ Past Sessions:
   - Advanced geospatial data visualization in Python
   - Bus control strategies
 - OpenTripPlanner ([slides](https://drive.google.com/file/d/1YE_o6avA3SF5rdHftfTzWz5cZM_JdDcp/view?usp=drive_link))
+- Data-Driven Bus Priority
+  - TransLink Bus Priority Program ([slides](https://drive.google.com/file/d/1haV6ClTAfxP7TptYYmSX6znbd1HE9M6a/view?usp=drive_link))
+  - Denver Bus Lanes ([slides](https://drive.google.com/file/d/1OF4OEng9AGoEWW7uVLxHlTf9keGjp3cQ/view?usp=drive_link))
 
 # Newsletter
 ## Current Issue
