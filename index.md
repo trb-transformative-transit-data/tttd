@@ -93,24 +93,6 @@ Data-Driven Bus Priority. November 29. Register [here](https://events.teams.micr
 - [June 2022](https://drive.google.com/file/d/13W_6etvOhsiyvNf6iGV6Z84ZKdhhshZH/view?usp=sharing)
 - [April 2022](https://drive.google.com/file/d/1Y_HP8m8RbJyRRVybalFOzMhhuU2J5xbJ/view?usp=sharing)
 
-# Members
-
-A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
-
-- [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair
-- Michael Eichler, Vice Chair
-- [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
-- [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
-- Eric Lind, Paper review coordinator
-- Anson Stewart, Communications Coordinator (interim)
-
-# Contact Us
-
-- [Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
-- [Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
-
-    The Slack Channel is hosted by MobilityData.  [Request to join their Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel
-
 # Files
 
 ## Meeting Minutes
@@ -136,6 +118,24 @@ A complete and updated list of members is located on [MyTRB](https://www.mytrb.o
 ## Former Subcommittee Files
 
 Files from our predecessor entity (the TRB Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00)) are available [here](https://github.com/trb-transformative-transit-data/tttd/tree/master/minutes).
+
+# Members
+
+A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
+
+- [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair
+- Michael Eichler, Vice Chair
+- [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
+- [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
+- Eric Lind, Paper review coordinator
+- Anson Stewart, Communications Coordinator (interim)
+
+# Contact Us
+
+- [Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
+- [Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
+
+    The Slack Channel is hosted by MobilityData.  [Request to join their Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel
 
 # Disclaimer
 
