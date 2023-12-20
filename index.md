@@ -24,16 +24,20 @@ Inform decision making throughout the transit industry with use of key data and 
 
 ## Research
 
-* [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
+- [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 
 # Webinar Series
-The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics. To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).  
+
+The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics. To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).
 
 Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
 
-Next Session: Data-Driven Bus Priority. November 29. Register [here](https://events.teams.microsoft.com/event/4ce666d5-2f8a-4cab-973c-d6a0ef488630@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+## Next Session
 
-Past Sessions:
+Data-Driven Bus Priority. November 29. Register [here](https://events.teams.microsoft.com/event/4ce666d5-2f8a-4cab-973c-d6a0ef488630@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+
+## Past Sessions
+
 - Real-time crowding data
 - Transit Surveys
 - Transit Data Therapy
@@ -59,14 +63,17 @@ Past Sessions:
   - LA Metro Better Bus Experience ([slides](https://drive.google.com/file/d/1XozHWlgHdEFYHnJO5r-Lk5Q2udBUZbZG/view?usp=drive_link))
 
 # Newsletter
-## Current Issue
-- [November 2023](https://docs.google.com/document/d/e/2PACX-1vS5O4jrIaQOCYTyc7teOn7RVXBeG4EZrlTbcYVa5LnHgByeoQ6j1bz9dTJZnf2FqwkDmb0H0JTR9BMx/pub)
 
 [Submit Content to our Monthly Newsletter!](https://forms.gle/2X65dfW2unZfnBKg6)
 
 **To make sure you receive our monthly newsletter, sign up as a friend of the committee via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
 
+## Current Issue
+
+- [November 2023](https://docs.google.com/document/d/e/2PACX-1vS5O4jrIaQOCYTyc7teOn7RVXBeG4EZrlTbcYVa5LnHgByeoQ6j1bz9dTJZnf2FqwkDmb0H0JTR9BMx/pub)
+
 ## Past Issues
+
 - [October 2023](https://docs.google.com/document/d/e/2PACX-1vSHVNREeDGsXQyunolMuFOJoob_lm7JBL4DCE4x2nnrztn5NkHrV4VCujJwRSBLNdrs6dpBNsixzrzN/pub)
 - [September 2023](https://docs.google.com/document/d/e/2PACX-1vQXpu9N3p9LLQ-pyYmzetIWepRYNYBLVaj4VTV4D0MUe3baliUK9Mlq-tmEzt0OMdSlShsLs1VXp923/pub)
 - [August 2023](https://docs.google.com/document/d/e/2PACX-1vSU8ViQq1HowuEga2BBHdpLtZAjygD-yt5nEXRcQW1CCezgfS7qda2FB_B3CuSCnDwoSHYiOxl4SjDn/pub)
@@ -86,49 +93,50 @@ Past Sessions:
 - [June 2022](https://drive.google.com/file/d/13W_6etvOhsiyvNf6iGV6Z84ZKdhhshZH/view?usp=sharing)
 - [April 2022](https://drive.google.com/file/d/1Y_HP8m8RbJyRRVybalFOzMhhuU2J5xbJ/view?usp=sharing)
 
-# Members
-A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
-
-# Contact Us
-
-[Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
-
-[Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
-
-The Slack Channel is hosted by MobilityData.  [Request to join their Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel 
-
-* [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair 
-* Michael Eichler, Vice Chair
-* [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
-* [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
-* Eric Lind, Paper review coordinator
-* Anson Stewart, Communications Coordinator (interim)
-
 # Files
 
 ## Meeting Minutes
 
-* [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
-* [Summer 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1t9vk2cqGXKxeDzJbb6kmBwyCvXTTZ6oxh_weypaVs60/edit?usp=sharing)
-* [2023 Annual Meeting (virtual)](https://docs.google.com/presentation/d/1PNw0Hqpk_mnir3gDCaxUtkMesKO0_uOZTy2Yd3sJxoQ/edit?usp=sharing)
-* [2023 Annual Meeting (in-person)](https://docs.google.com/presentation/d/1mlhOkx8SLKIaTr9GBtmkUTRUQ9DWKlUfk0A1h0DoFtE/edit?usp=sharing)
-* [Fall 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1dk85oDCJMwikCk4lRbSVnQyeuZne0VDTNWe4m786pwA/edit?usp=sharing)
-* [Summer 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1jrHK-Omh0i_nPNrjt4fudGcZAcJ3yWw4oXycJ4ioiok/edit?usp=sharing)
-* [Spring 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1yt1-8HvCLxYc9x13_IiXXJXAVICYn_9Xzurc0BRkr2Q/edit?usp=sharing)
-* [2022 Annual Meeting](https://docs.google.com/presentation/d/1PaeT-6BNLZ0cuSABlqOu6JHFf-jdbY2B5TpDafPX6og/edit#slide=id.g10af89e44fb_0_38)
-* [Fall 2021 Quarterly Meeting](minutes/2021_10_AP090_Meeting_Slides.pdf)
-* [DRAFT 2021 Slideshow](minutes/2021_01_AP090_Meeting_Slides.pdf)
-* [DRAFT 2021 Research Brainstorming ("Mentimeter")](minutes/2021_01_AP090_mentimeter_results.pdf)
-* [Quarterly March 2021 Slides](minutes/2021_03_AP090_Slides.pdf)
+- [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
+- [Summer 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1t9vk2cqGXKxeDzJbb6kmBwyCvXTTZ6oxh_weypaVs60/edit?usp=sharing)
+- [2023 Annual Meeting (virtual)](https://docs.google.com/presentation/d/1PNw0Hqpk_mnir3gDCaxUtkMesKO0_uOZTy2Yd3sJxoQ/edit?usp=sharing)
+- [2023 Annual Meeting (in-person)](https://docs.google.com/presentation/d/1mlhOkx8SLKIaTr9GBtmkUTRUQ9DWKlUfk0A1h0DoFtE/edit?usp=sharing)
+- [Fall 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1dk85oDCJMwikCk4lRbSVnQyeuZne0VDTNWe4m786pwA/edit?usp=sharing)
+- [Summer 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1jrHK-Omh0i_nPNrjt4fudGcZAcJ3yWw4oXycJ4ioiok/edit?usp=sharing)
+- [Spring 2022 Quarterly Meeting](https://docs.google.com/presentation/d/1yt1-8HvCLxYc9x13_IiXXJXAVICYn_9Xzurc0BRkr2Q/edit?usp=sharing)
+- [2022 Annual Meeting](https://docs.google.com/presentation/d/1PaeT-6BNLZ0cuSABlqOu6JHFf-jdbY2B5TpDafPX6og/edit#slide=id.g10af89e44fb_0_38)
+- [Fall 2021 Quarterly Meeting](minutes/2021_10_AP090_Meeting_Slides.pdf)
+- [DRAFT 2021 Slideshow](minutes/2021_01_AP090_Meeting_Slides.pdf)
+- [DRAFT 2021 Research Brainstorming ("Mentimeter")](minutes/2021_01_AP090_mentimeter_results.pdf)
+- [Quarterly March 2021 Slides](minutes/2021_03_AP090_Slides.pdf)
 
 ## Agenda
 
-* [TRB Annual Meeting 2021](minutes/2021_01_AP090_Agenda.pdf)
-* [Quarterly March 2021](minutes/2021_03_AP090_Agenda.md)
+- [TRB Annual Meeting 2021](minutes/2021_01_AP090_Agenda.pdf)
+- [Quarterly March 2021](minutes/2021_03_AP090_Agenda.md)
 
-# Former Subcommittee Files
+## Former Subcommittee Files
 
 Files from our predecessor entity (the TRB Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00)) are available [here](https://github.com/trb-transformative-transit-data/tttd/tree/master/minutes).
 
-## Disclaimer
+# Members
+
+A complete and updated list of members is located on [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
+
+- [Catherine Lawson](https://www.albany.edu/gp/lawson.php), Chair
+- Michael Eichler, Vice Chair
+- [Carole Turley Voulgaris](https://www.gsd.harvard.edu/person/carole-voulgaris/), Secretary
+- [Raymond Chan](https://www.raychan.me) and [Greg Newmark](https://apdesign.k-state.edu/about/faculty-staff/newmark/), Committee Research Coordinators
+- Eric Lind, Paper review coordinator
+- Anson Stewart, Communications Coordinator (interim)
+
+# Contact Us
+
+- [Join the conversation on LinkedIn!](https://www.linkedin.com/groups/14061328/)
+- [Join the conversation on Slack!](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform)
+
+    The Slack Channel is hosted by MobilityData.  [Request to join their Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform). From there, you can join the #trb-transit-data channel
+
+# Disclaimer
+
 Any opinions, findings, or conclusions expressed on this website are those of the authors and do not necessarily reflect the views of the Transportation Research Board or The National Academies of Sciences, Engineering, and Medicine.
