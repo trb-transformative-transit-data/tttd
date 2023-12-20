@@ -6,9 +6,12 @@ title: TRB Standing Committee on Transit Data - AP090
 
 Welcome to the website for TRB Standing Committee on Transit Data (AP090).
 
-**To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433) (Press the "Become a Friend of this Committee" blue button)**
-
 The TRB Standing Committee on Transit Data focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
+
+## How to Connect
+
+- **For information on the upcoming 2024 TRB Annual Meeting, see [AP090 at the 2024 Annual Meeting](./annual-meetings/2024/)**
+- **To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433) (Press the "Become a Friend of this Committee" blue button)**
 
 ## Mission
 
@@ -118,6 +121,10 @@ Data-Driven Bus Priority. November 29. Register [here](https://events.teams.micr
 ## Former Subcommittee Files
 
 Files from our predecessor entity (the TRB Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00)) are available [here](https://github.com/trb-transformative-transit-data/tttd/tree/master/minutes).
+
+# Annual Meetings
+
+- [AP090 at the 2024 Annual Meeting](./annual-meetings/2024/)
 
 # Members
 
