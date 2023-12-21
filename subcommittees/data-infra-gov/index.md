@@ -4,7 +4,7 @@
 
 ## Upcoming Events
 
-None yet
+- [Workshop at Annual Meeting 2024](/annual-meetings/2024/data-infra-gov-subcommittee)
 
 ## Past Events
 
