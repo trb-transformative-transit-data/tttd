@@ -1,3 +1,6 @@
 title: TRB Transit Data Committee
 description: TRB Standing Committee AP090
 theme: jekyll-theme-leap-day
+
+plugins:
+  - jekyll-spaceship

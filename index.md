@@ -36,6 +36,15 @@ Inform decision making throughout the transit industry with use of key data and 
 - [Mobility Data Interoperability Principles](https://www.interoperablemobility.org/)
 - [GTFS-Ride](https://gtfsride.org/)
 
+# Subcommittees
+
+## Data Infrastructure & Governance
+
+Designated `AP090(1)`, this subcommittee focuses on the practical challenges and practices for implementing modern data infrastructure and governance within transit agencies.
+
+- [Subcommittee Homepage](./subcommittees/data-infra-gov)
+- [Workshop @ Annual Meeting 2024](./annual-meetings/2024/data-infra-gov-subcommittee)
+
 # Webinar Series
 
 The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics. To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).
