@@ -1,6 +1,6 @@
 # Data Infrastructure & Governance Subcommittee Workshop @ Annual Meeting 2024
 
-[« Return to Annual Meeting 2024](/annual-meetings/2024/) or [AP090(1) homepage](./) or [AP090 homepage](/)
+[« Return to Annual Meeting 2024](/annual-meetings/2024/) or [AP090(1) homepage](/subcommittees/data-infra-gov/) or [AP090 homepage](/)
 
 Join the inaugural meeting of the new Subcommittee on Data Infrastructure and Governance to learn about and help shape the subcommittee's mission! This workshop will begin with brief introduction and overview of the subcommittee's mission and definitions, followed by small-group breakout discussions to generate guidance for the subcommittee and start digging into the work we need to do.
 
