@@ -6,6 +6,7 @@ Join the inaugural meeting of the new Subcommittee on Data Infrastructure and Go
 
 ## Event Details
 
+- **Link:** [TRB Annual Meeting Online Program](https://annualmeeting.mytrb.org/OnlineProgram/Details/21047)
 - **Date:** Tuesday, January 9th, 2024
 - **Time:** 10:15am–12:00pm
 - **Location:** Marriott Marquis, Independence Salon C (M4)
