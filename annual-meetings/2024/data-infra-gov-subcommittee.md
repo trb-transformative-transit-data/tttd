@@ -1,8 +1,8 @@
-# Data Infrastructure & Governance Subcommittee Workshop @ Annual Meeting 2024
+# Data Infrastructure & Governance Subcommittee Kickoff @ Annual Meeting 2024
 
 [« Return to Annual Meeting 2024](/annual-meetings/2024/) or [AP090(1) homepage](/subcommittees/data-infra-gov/) or [AP090 homepage](/)
 
-Join the inaugural meeting of the new Subcommittee on Data Infrastructure and Governance to learn about and help shape the subcommittee's mission! This workshop will begin with brief introduction and overview of the subcommittee's mission and definitions, followed by small-group breakout discussions to generate guidance for the subcommittee and start digging into the work we need to do.
+Join the inaugural meeting of the new Subcommittee on Data Infrastructure and Governance to learn about and help shape the subcommittee's mission! This session will begin with brief introduction and overview of the subcommittee's mission and definitions, followed by small-group breakout discussions to generate guidance for the subcommittee and start digging into the work we need to do.
 
 ## Event Details
 
@@ -11,11 +11,11 @@ Join the inaugural meeting of the new Subcommittee on Data Infrastructure and Go
 - **Time:** 10:15am–12:00pm
 - **Location:** Marriott Marquis, Independence Salon C (M4)
 
-## Pre-Workshop Social Hour
+## Pre-Kickoff Social Hour
 
-Chat with members and friends of the AP090(1) subcommittee at the [Transit Data Social Hour](./social-hour) the night before the workshop!
+Chat with members and friends of the AP090(1) subcommittee at the [Transit Data Social Hour](./social-hour) the night before the kickoff!
 
-## Workshop Agenda
+## Kickoff Agenda
 
 | Time    | Activity                                                                                                  |
 |---------|-----------------------------------------------------------------------------------------------------------|

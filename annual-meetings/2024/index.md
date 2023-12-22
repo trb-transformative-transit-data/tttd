@@ -5,7 +5,7 @@
 ## Events
 
 - [Transit Data Social Hour](./social-hour)
-- [Data Infrastructure & Governance Subcommittee Workshop](./data-infra-gov-subcommittee)
+- [Data Infrastructure & Governance Subcommittee Kickoff](./data-infra-gov-subcommittee)
 
 ### Full Calendar
 

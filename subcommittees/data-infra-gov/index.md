@@ -24,4 +24,4 @@ More specific activites and projects will be discussed at the upcoming TRB Annua
 
 ## Upcoming Events
 
-- [Workshop at Annual Meeting 2024](/annual-meetings/2024/data-infra-gov-subcommittee)
+- [Kickoff @ Annual Meeting 2024](/annual-meetings/2024/data-infra-gov-subcommittee)
