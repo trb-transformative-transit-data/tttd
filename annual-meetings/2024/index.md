@@ -9,6 +9,8 @@
 
 ### Full Calendar
 
+Shareable link to full AP090 calendar: [teamup.com/ks6j7ehhydokhpfrkr](https://teamup.com/ks6j7ehhydokhpfrkr)
+
 <iframe src="https://teamup.com/ks6j7ehhydokhpfrkr?disableSidepanel=1&showMenu=0&showHeader=0&showViewSelector=0&view=md4&date=2024-01-07&zoom=0.8" style="width: 100%; height: 500px" loading="lazy" frameborder="0"></iframe>
 
 ### Calendar Subscription
