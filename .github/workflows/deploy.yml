@@ -23,4 +23,4 @@ jobs:
         with:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages-test
+          branch: gh-pages
