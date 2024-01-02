@@ -6,6 +6,7 @@
 
 - [Transit Data Social Hour](./social-hour)
 - [Data Infrastructure & Governance Subcommittee Kickoff](./data-infra-gov-subcommittee)
+- [TIDES Update Meeting](./tides)
 
 ### Full Calendar
 
