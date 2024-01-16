@@ -118,7 +118,8 @@ Data-Driven Bus Priority. November 29. Register [here](https://events.teams.micr
 
 ## Meeting Minutes
 
-- [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
+- [2024 Annual Meeting (in-person)](https://drive.google.com/file/d/1pszWSCLYkmp5JM-fVhukm6gG2Akjc-y_/view?usp=sharing)
+-  [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
 - [Summer 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1t9vk2cqGXKxeDzJbb6kmBwyCvXTTZ6oxh_weypaVs60/edit?usp=sharing)
 - [2023 Annual Meeting (virtual)](https://docs.google.com/presentation/d/1PNw0Hqpk_mnir3gDCaxUtkMesKO0_uOZTy2Yd3sJxoQ/edit?usp=sharing)
 - [2023 Annual Meeting (in-person)](https://docs.google.com/presentation/d/1mlhOkx8SLKIaTr9GBtmkUTRUQ9DWKlUfk0A1h0DoFtE/edit?usp=sharing)
