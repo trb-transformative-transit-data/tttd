@@ -10,7 +10,6 @@ The TRB Standing Committee on Transit Data focuses on the generation, processing
 
 ## How to Connect
 
-- **For information on the upcoming 2024 TRB Annual Meeting, see [AP090 at the 2024 Annual Meeting](./annual-meetings/2024/)**
 - **To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433) (Press the "Become a Friend of this Committee" blue button)**
 
 ## Mission
