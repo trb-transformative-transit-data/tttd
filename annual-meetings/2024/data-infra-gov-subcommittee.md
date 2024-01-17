@@ -6,6 +6,7 @@ Join the inaugural meeting of the new Subcommittee on Data Infrastructure and Go
 
 ## Event Details
 
+- [Meeting Minutes](/subcommittees/data-infra-gov/minutes/2024-09-01_annual-meeting)
 - **Link:** [TRB Annual Meeting Online Program](https://annualmeeting.mytrb.org/OnlineProgram/Details/21047)
 - **Date:** Tuesday, January 9th, 2024
 - **Time:** 10:15am–12:00pm

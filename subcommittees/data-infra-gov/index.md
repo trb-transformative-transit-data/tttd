@@ -22,6 +22,7 @@ More specific activites and projects will be discussed at the upcoming TRB Annua
 - Join us on Slack in [`#trb-ap090-data-infra`](https://mobilitydata-io.slack.com/archives/C05JRCWALH0) under MobilityData's community workspace ([request invitation](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform))
 - [Submit your email address to subscribe to updates or request to join the subcommittee](https://bit.ly/transit-data-infra)
 
-## Upcoming Events
+## Past Events
 
 - [Kickoff @ Annual Meeting 2024](/annual-meetings/2024/data-infra-gov-subcommittee)
+  - [Meeting Minutes](/subcommittees/data-infra-gov/minutes/2024-09-01_annual-meeting)
