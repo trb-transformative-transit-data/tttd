@@ -88,10 +88,11 @@ Data-Driven Bus Priority. November 29. Register [here](https://events.teams.micr
 
 ## Current Issue
 
-- [January 2024](https://docs.google.com/document/d/e/2PACX-1vTvI0GyhJYZNqYhSnWtRfDWyY_Ad3O3vugqspZm9BRzSqPHl6DL7eX2-m_3AXou7QGCYAk79ByuA9FF/pub)
+- [February 2024](https://docs.google.com/document/d/e/2PACX-1vR11vM_jEStCwafz6J0HHQW0rKC8H7mhRipHjGXEZCQ21I8jKx9rzlGenG2tk-Z6nGZ0pEkQv_qnywx/pub)
 
 ## Past Issues
 
+- [January 2024](https://docs.google.com/document/d/e/2PACX-1vTvI0GyhJYZNqYhSnWtRfDWyY_Ad3O3vugqspZm9BRzSqPHl6DL7eX2-m_3AXou7QGCYAk79ByuA9FF/pub)
 - [December 2023](https://docs.google.com/document/d/e/2PACX-1vT5lS6ea_oKMCl8ERR2Bi-k-yR7N_n2AGAkiOC18nXVzU0E15jTUnIeR0tKV49tvydwxW420swju80M/pub)
 - [November 2023](https://docs.google.com/document/d/e/2PACX-1vS5O4jrIaQOCYTyc7teOn7RVXBeG4EZrlTbcYVa5LnHgByeoQ6j1bz9dTJZnf2FqwkDmb0H0JTR9BMx/pub)
 - [October 2023](https://docs.google.com/document/d/e/2PACX-1vSHVNREeDGsXQyunolMuFOJoob_lm7JBL4DCE4x2nnrztn5NkHrV4VCujJwRSBLNdrs6dpBNsixzrzN/pub)
