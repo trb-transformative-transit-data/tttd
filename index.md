@@ -52,7 +52,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-GTFS – Beyond Schedules. March 26. Register [here](https://events.teams.microsoft.com/event/71a64e07-d631-4b5c-af63-bcef4bde302d@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+Personal Rapid Transit (PRT) and Transit Fleet Electrification: Challenges and Case Studies. April 24. Register [here](https://events.teams.microsoft.com/event/e6d3da63-bd39-4509-b15b-effa8cf36e79@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
 
 ## Past Sessions
 
@@ -88,10 +88,11 @@ GTFS – Beyond Schedules. March 26. Register [here](https://events.teams.micros
 
 ## Current Issue
 
-- [March 2024](https://docs.google.com/document/d/e/2PACX-1vRt_M4btIcQ-JcZKEPzEzbiapJOnPk8G4-c0p2Xyvz_1KLKizjPU1UDiDeHeORmTcpzOJIo0GLfRGxk/pub)
+- [April 2024](https://docs.google.com/document/d/e/2PACX-1vRmEPJoMS0agjU3EIpetKjWev1_Z82YLBRDkTK5zvQJmtCIkrdcAZTB3KuXe_Z1hkeqDxyQpvKKfn8G/pub)
 
 ## Past Issues
 
+- [March 2024](https://docs.google.com/document/d/e/2PACX-1vRt_M4btIcQ-JcZKEPzEzbiapJOnPk8G4-c0p2Xyvz_1KLKizjPU1UDiDeHeORmTcpzOJIo0GLfRGxk/pub)
 - [February 2024](https://docs.google.com/document/d/e/2PACX-1vR11vM_jEStCwafz6J0HHQW0rKC8H7mhRipHjGXEZCQ21I8jKx9rzlGenG2tk-Z6nGZ0pEkQv_qnywx/pub)
 - [January 2024](https://docs.google.com/document/d/e/2PACX-1vTvI0GyhJYZNqYhSnWtRfDWyY_Ad3O3vugqspZm9BRzSqPHl6DL7eX2-m_3AXou7QGCYAk79ByuA9FF/pub)
 - [December 2023](https://docs.google.com/document/d/e/2PACX-1vT5lS6ea_oKMCl8ERR2Bi-k-yR7N_n2AGAkiOC18nXVzU0E15jTUnIeR0tKV49tvydwxW420swju80M/pub)
