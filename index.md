@@ -75,6 +75,7 @@ Personal Rapid Transit (PRT) and Transit Fleet Electrification: Challenges and C
   - Advanced geospatial data visualization in Python
   - Bus control strategies
 - OpenTripPlanner ([slides](https://drive.google.com/file/d/1YE_o6avA3SF5rdHftfTzWz5cZM_JdDcp/view?usp=drive_link))
+- GTFS - Beyond Schedules (GTFS Flex) ([slides](https://drive.google.com/file/d/1l2yvJfDSb2j-flnoSPJs-BV9eXZChBNk/view?usp=sharing))
 - Data-Driven Bus Priority
   - TransLink Bus Priority Program ([slides](https://drive.google.com/file/d/1haV6ClTAfxP7TptYYmSX6znbd1HE9M6a/view?usp=drive_link))
   - Denver Bus Lanes ([slides](https://drive.google.com/file/d/1OF4OEng9AGoEWW7uVLxHlTf9keGjp3cQ/view?usp=drive_link))
