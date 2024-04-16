@@ -123,6 +123,7 @@ Personal Rapid Transit (PRT) and Transit Fleet Electrification: Challenges and C
 
 ## Meeting Minutes
 
+- [Spring 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1o2f52OupP2QaRjwgclJ92HhyANQxrJjwRkhcvX3uEuM/edit?usp=sharing)
 - [2024 Annual Meeting (in-person)](https://drive.google.com/file/d/1pszWSCLYkmp5JM-fVhukm6gG2Akjc-y_/view?usp=sharing)
 -  [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
 - [Summer 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1t9vk2cqGXKxeDzJbb6kmBwyCvXTTZ6oxh_weypaVs60/edit?usp=sharing)
