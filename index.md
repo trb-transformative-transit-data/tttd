@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-Personal Rapid Transit (PRT) and Transit Fleet Electrification: Challenges and Case Studies. April 24. Register [here](https://events.teams.microsoft.com/event/e6d3da63-bd39-4509-b15b-effa8cf36e79@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+Transit Data-Driven Passenger Information Screens. May 29. Register [here](https://events.teams.microsoft.com/event/b1dd9ec5-e306-4d98-b286-853f417a8d4b@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
 
 ## Past Sessions
 
@@ -91,10 +91,11 @@ Personal Rapid Transit (PRT) and Transit Fleet Electrification: Challenges and C
 
 ## Current Issue
 
-- [April 2024](https://docs.google.com/document/d/e/2PACX-1vRmEPJoMS0agjU3EIpetKjWev1_Z82YLBRDkTK5zvQJmtCIkrdcAZTB3KuXe_Z1hkeqDxyQpvKKfn8G/pub)
+- [May 2024](https://docs.google.com/document/d/e/2PACX-1vTyQW_iTTqHGWPKM2Dpfugx5-MffwbVLhyQI2w4Hnhq89gg1H1-uj8BUiqmMA8avCer6k5jjfnTqWPg/pub)
 
 ## Past Issues
 
+- [April 2024](https://docs.google.com/document/d/e/2PACX-1vRmEPJoMS0agjU3EIpetKjWev1_Z82YLBRDkTK5zvQJmtCIkrdcAZTB3KuXe_Z1hkeqDxyQpvKKfn8G/pub)
 - [March 2024](https://docs.google.com/document/d/e/2PACX-1vRt_M4btIcQ-JcZKEPzEzbiapJOnPk8G4-c0p2Xyvz_1KLKizjPU1UDiDeHeORmTcpzOJIo0GLfRGxk/pub)
 - [February 2024](https://docs.google.com/document/d/e/2PACX-1vR11vM_jEStCwafz6J0HHQW0rKC8H7mhRipHjGXEZCQ21I8jKx9rzlGenG2tk-Z6nGZ0pEkQv_qnywx/pub)
 - [January 2024](https://docs.google.com/document/d/e/2PACX-1vTvI0GyhJYZNqYhSnWtRfDWyY_Ad3O3vugqspZm9BRzSqPHl6DL7eX2-m_3AXou7QGCYAk79ByuA9FF/pub)
