@@ -82,6 +82,10 @@ Transit Data-Driven Passenger Information Screens. May 29. Register [here](https
   - TransLink Bus Priority Program ([slides](https://drive.google.com/file/d/1haV6ClTAfxP7TptYYmSX6znbd1HE9M6a/view?usp=drive_link))
   - Denver Bus Lanes ([slides](https://drive.google.com/file/d/1OF4OEng9AGoEWW7uVLxHlTf9keGjp3cQ/view?usp=drive_link))
   - LA Metro Better Bus Experience ([slides](https://drive.google.com/file/d/1XozHWlgHdEFYHnJO5r-Lk5Q2udBUZbZG/view?usp=drive_link))
+- Data-Driven Passenger Information Screens
+  - Maryland MTA Presentation ([slides](https://drive.google.com/file/d/1CrNweW2fWXoX1xJLBoL1hm97XB_46kOE/view?usp=sharing))
+  - Sound Transit Presentation ([slides](https://drive.google.com/file/d/1pxirH7qHo9rs0BVM132X-YXBvWev1J4t/view?usp=sharing))
+  - MBTA Presentation ([slides](https://drive.google.com/file/d/178VJuVCmJlQWxyLh9Q4TOJPdTa2VoW1y/view?usp=sharing))
 
 # Newsletter
 
