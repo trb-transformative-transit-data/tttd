@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-Transit Data-Driven Passenger Information Screens. May 29. Register [here](https://events.teams.microsoft.com/event/b1dd9ec5-e306-4d98-b286-853f417a8d4b@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+WMATA Spotlight. June 26. Register [here](https://events.teams.microsoft.com/event/2fd37d7a-24a1-43de-bb02-09207b2308e5@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
 
 ## Past Sessions
 
@@ -95,10 +95,11 @@ Transit Data-Driven Passenger Information Screens. May 29. Register [here](https
 
 ## Current Issue
 
-- [May 2024](https://docs.google.com/document/d/e/2PACX-1vTyQW_iTTqHGWPKM2Dpfugx5-MffwbVLhyQI2w4Hnhq89gg1H1-uj8BUiqmMA8avCer6k5jjfnTqWPg/pub)
+- [June 2024](https://docs.google.com/document/d/e/2PACX-1vTr8u2DulNi4AmmL7bdDs9mgBPfO2x1CokzVGW7epo7TdH18mCo73Pvhbkvjkm3fXOxpNK7P4mJzj-2/pub)
 
 ## Past Issues
 
+- [May 2024](https://docs.google.com/document/d/e/2PACX-1vTyQW_iTTqHGWPKM2Dpfugx5-MffwbVLhyQI2w4Hnhq89gg1H1-uj8BUiqmMA8avCer6k5jjfnTqWPg/pub)
 - [April 2024](https://docs.google.com/document/d/e/2PACX-1vRmEPJoMS0agjU3EIpetKjWev1_Z82YLBRDkTK5zvQJmtCIkrdcAZTB3KuXe_Z1hkeqDxyQpvKKfn8G/pub)
 - [March 2024](https://docs.google.com/document/d/e/2PACX-1vRt_M4btIcQ-JcZKEPzEzbiapJOnPk8G4-c0p2Xyvz_1KLKizjPU1UDiDeHeORmTcpzOJIo0GLfRGxk/pub)
 - [February 2024](https://docs.google.com/document/d/e/2PACX-1vR11vM_jEStCwafz6J0HHQW0rKC8H7mhRipHjGXEZCQ21I8jKx9rzlGenG2tk-Z6nGZ0pEkQv_qnywx/pub)
