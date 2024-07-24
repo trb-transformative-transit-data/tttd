@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-WMATA Spotlight. June 26. Register [here](https://events.teams.microsoft.com/event/2fd37d7a-24a1-43de-bb02-09207b2308e5@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+DART Spotlight. July 31. Register [here](https://events.teams.microsoft.com/event/5f0c7457-2851-4c58-9369-84ff5e30bf3e@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
 
 ## Past Sessions
 
@@ -95,10 +95,11 @@ WMATA Spotlight. June 26. Register [here](https://events.teams.microsoft.com/eve
 
 ## Current Issue
 
-- [June 2024](https://docs.google.com/document/d/e/2PACX-1vTr8u2DulNi4AmmL7bdDs9mgBPfO2x1CokzVGW7epo7TdH18mCo73Pvhbkvjkm3fXOxpNK7P4mJzj-2/pub)
+- [July 2024](https://docs.google.com/document/d/e/2PACX-1vTnYCIO98mex8UKF7eSwr7yorIyOZlpochbyz6SIcEscm_YLyRGJjq6leHrLawqZ7_FzoGi-QZZrhQt/pub)
 
 ## Past Issues
 
+- [June 2024](https://docs.google.com/document/d/e/2PACX-1vTr8u2DulNi4AmmL7bdDs9mgBPfO2x1CokzVGW7epo7TdH18mCo73Pvhbkvjkm3fXOxpNK7P4mJzj-2/pub)
 - [May 2024](https://docs.google.com/document/d/e/2PACX-1vTyQW_iTTqHGWPKM2Dpfugx5-MffwbVLhyQI2w4Hnhq89gg1H1-uj8BUiqmMA8avCer6k5jjfnTqWPg/pub)
 - [April 2024](https://docs.google.com/document/d/e/2PACX-1vRmEPJoMS0agjU3EIpetKjWev1_Z82YLBRDkTK5zvQJmtCIkrdcAZTB3KuXe_Z1hkeqDxyQpvKKfn8G/pub)
 - [March 2024](https://docs.google.com/document/d/e/2PACX-1vRt_M4btIcQ-JcZKEPzEzbiapJOnPk8G4-c0p2Xyvz_1KLKizjPU1UDiDeHeORmTcpzOJIo0GLfRGxk/pub)
