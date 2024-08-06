@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-DART Spotlight. July 31. Register [here](https://events.teams.microsoft.com/event/5f0c7457-2851-4c58-9369-84ff5e30bf3e@ad5836f4-0d74-43cd-83c5-7e69eaa67915).
+Statewide Measurement of Transit Options, Access, and Equity. August 21. Register [here](https://events.gcc.teams.microsoft.com/event/b03fc505-cb8c-42fc-8d7d-a300f994bc65@05182089-2b8a-4c82-864b-aa265b61fa57).
 
 ## Past Sessions
 
@@ -70,6 +70,7 @@ DART Spotlight. July 31. Register [here](https://events.teams.microsoft.com/even
   - LA Metro
   - SoundTransit (Seattle)
   - WMATA (DC)
+  - DART (Dallas)
 - Multi-Agency Performance Measurement
 - Transit Data Governance featuring MARTA
 - Open Source Tools for Transit Data Infrastructure
@@ -95,10 +96,11 @@ DART Spotlight. July 31. Register [here](https://events.teams.microsoft.com/even
 
 ## Current Issue
 
-- [July 2024](https://docs.google.com/document/d/e/2PACX-1vTnYCIO98mex8UKF7eSwr7yorIyOZlpochbyz6SIcEscm_YLyRGJjq6leHrLawqZ7_FzoGi-QZZrhQt/pub)
+- [August 2024](https://docs.google.com/document/d/e/2PACX-1vQiR4cw9x10Vk8lDLUrj1LEvvPG-ehQlZQPcbvWgUL6eTk4ErrnNUgieVFZaB8MHwm-BTrErpKyWLJc/pub)
 
 ## Past Issues
 
+- [July 2024](https://docs.google.com/document/d/e/2PACX-1vTnYCIO98mex8UKF7eSwr7yorIyOZlpochbyz6SIcEscm_YLyRGJjq6leHrLawqZ7_FzoGi-QZZrhQt/pub)
 - [June 2024](https://docs.google.com/document/d/e/2PACX-1vTr8u2DulNi4AmmL7bdDs9mgBPfO2x1CokzVGW7epo7TdH18mCo73Pvhbkvjkm3fXOxpNK7P4mJzj-2/pub)
 - [May 2024](https://docs.google.com/document/d/e/2PACX-1vTyQW_iTTqHGWPKM2Dpfugx5-MffwbVLhyQI2w4Hnhq89gg1H1-uj8BUiqmMA8avCer6k5jjfnTqWPg/pub)
 - [April 2024](https://docs.google.com/document/d/e/2PACX-1vRmEPJoMS0agjU3EIpetKjWev1_Z82YLBRDkTK5zvQJmtCIkrdcAZTB3KuXe_Z1hkeqDxyQpvKKfn8G/pub)
