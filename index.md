@@ -54,10 +54,11 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-Statewide Measurement of Transit Options, Access, and Equity. August 21. Register [here](https://events.gcc.teams.microsoft.com/event/b03fc505-cb8c-42fc-8d7d-a300f994bc65@05182089-2b8a-4c82-864b-aa265b61fa57).
+Transit Signal Priority (TSP) Data. September 25. Register [here](https://events.gcc.teams.microsoft.com/event/23981a4f-e7d1-4515-afaa-026bac90f536@05182089-2b8a-4c82-864b-aa265b61fa57).
 
 ## Past Sessions
 
+- Statewide Measurement of Transit Options, Access, and Equity [slides](https://s3.amazonaws.com/conveyal.com/files/Interagency+Transit+Data+Webinar+%2327+Statewide+Access.pdf)
 - Real-time crowding data
 - Transit Surveys
 - Transit Data Therapy
@@ -96,10 +97,11 @@ Statewide Measurement of Transit Options, Access, and Equity. August 21. Registe
 
 ## Current Issue
 
-- [August 2024](https://docs.google.com/document/d/e/2PACX-1vQiR4cw9x10Vk8lDLUrj1LEvvPG-ehQlZQPcbvWgUL6eTk4ErrnNUgieVFZaB8MHwm-BTrErpKyWLJc/pub)
+- [September 2024](https://docs.google.com/document/d/14BVlObufdtBngnR_iRMLYNg19Mgw11-5S4nKF3rjzVE/pub)
 
 ## Past Issues
 
+- [August 2024](https://docs.google.com/document/d/e/2PACX-1vQiR4cw9x10Vk8lDLUrj1LEvvPG-ehQlZQPcbvWgUL6eTk4ErrnNUgieVFZaB8MHwm-BTrErpKyWLJc/pub)
 - [July 2024](https://docs.google.com/document/d/e/2PACX-1vTnYCIO98mex8UKF7eSwr7yorIyOZlpochbyz6SIcEscm_YLyRGJjq6leHrLawqZ7_FzoGi-QZZrhQt/pub)
 - [June 2024](https://docs.google.com/document/d/e/2PACX-1vTr8u2DulNi4AmmL7bdDs9mgBPfO2x1CokzVGW7epo7TdH18mCo73Pvhbkvjkm3fXOxpNK7P4mJzj-2/pub)
 - [May 2024](https://docs.google.com/document/d/e/2PACX-1vTyQW_iTTqHGWPKM2Dpfugx5-MffwbVLhyQI2w4Hnhq89gg1H1-uj8BUiqmMA8avCer6k5jjfnTqWPg/pub)
