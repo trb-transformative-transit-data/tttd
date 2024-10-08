@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-Transit Signal Priority (TSP) Data. September 25. Register [here](https://events.gcc.teams.microsoft.com/event/23981a4f-e7d1-4515-afaa-026bac90f536@05182089-2b8a-4c82-864b-aa265b61fa57).
+North American Light Rail: Industry Updates from a Benchmarking Coalition. Oct 30 Register [here](https://events.gcc.teams.microsoft.com/event/2c38b17b-4ec8-4016-8c43-2199ed30ca4a@05182089-2b8a-4c82-864b-aa265b61fa57).
 
 ## Past Sessions
 
@@ -62,6 +62,7 @@ Transit Signal Priority (TSP) Data. September 25. Register [here](https://events
 - Real-time crowding data
 - Transit Surveys
 - Transit Data Therapy
+- Transit signal prioprity
 - Deploying Research: Origin-Destination-Transfer Inference Models
 - Open data standards
 - Agency Spotlights
@@ -97,10 +98,11 @@ Transit Signal Priority (TSP) Data. September 25. Register [here](https://events
 
 ## Current Issue
 
-- [September 2024](https://docs.google.com/document/d/14BVlObufdtBngnR_iRMLYNg19Mgw11-5S4nKF3rjzVE/pub)
+- [October 2024](https://docs.google.com/document/d/e/2PACX-1vRyl7fjTSBwofoa8e4ZnZ6Whp3GO-sirk9ZCEv08FMQVxhV8VTdS5SBpTPOsmHngs2yKdfXXGWve0JO/pub)
 
 ## Past Issues
 
+- [September 2024](https://docs.google.com/document/d/14BVlObufdtBngnR_iRMLYNg19Mgw11-5S4nKF3rjzVE/pub)
 - [August 2024](https://docs.google.com/document/d/e/2PACX-1vQiR4cw9x10Vk8lDLUrj1LEvvPG-ehQlZQPcbvWgUL6eTk4ErrnNUgieVFZaB8MHwm-BTrErpKyWLJc/pub)
 - [July 2024](https://docs.google.com/document/d/e/2PACX-1vTnYCIO98mex8UKF7eSwr7yorIyOZlpochbyz6SIcEscm_YLyRGJjq6leHrLawqZ7_FzoGi-QZZrhQt/pub)
 - [June 2024](https://docs.google.com/document/d/e/2PACX-1vTr8u2DulNi4AmmL7bdDs9mgBPfO2x1CokzVGW7epo7TdH18mCo73Pvhbkvjkm3fXOxpNK7P4mJzj-2/pub)
