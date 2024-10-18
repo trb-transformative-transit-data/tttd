@@ -136,6 +136,7 @@ North American Light Rail: Industry Updates from a Benchmarking Coalition. Oct 3
 
 ## Meeting Minutes
 
+-[Summer 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1CgP8poIO1P7gWUl9pdPtS9t5P9XqEyn7uMji7ccoEcs/edit?usp=sharing)
 - [Spring 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1o2f52OupP2QaRjwgclJ92HhyANQxrJjwRkhcvX3uEuM/edit?usp=sharing)
 - [2024 Annual Meeting (in-person)](https://drive.google.com/file/d/1pszWSCLYkmp5JM-fVhukm6gG2Akjc-y_/view?usp=sharing)
 -  [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
