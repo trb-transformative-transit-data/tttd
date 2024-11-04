@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-North American Light Rail: Industry Updates from a Benchmarking Coalition. Oct 30 Register [here](https://events.gcc.teams.microsoft.com/event/2c38b17b-4ec8-4016-8c43-2199ed30ca4a@05182089-2b8a-4c82-864b-aa265b61fa57).
+RTD Customer-Focused Data Quality: Initiatives and Outstanding Challenges, 2024. Nov 20. Register [here](https://events.gcc.teams.microsoft.com/event/14a15d41-d11a-45be-afa9-3c66bc807553@05182089-2b8a-4c82-864b-aa265b61fa57).
 
 ## Past Sessions
 
@@ -98,10 +98,11 @@ North American Light Rail: Industry Updates from a Benchmarking Coalition. Oct 3
 
 ## Current Issue
 
-- [October 2024](https://docs.google.com/document/d/e/2PACX-1vRyl7fjTSBwofoa8e4ZnZ6Whp3GO-sirk9ZCEv08FMQVxhV8VTdS5SBpTPOsmHngs2yKdfXXGWve0JO/pub)
+- [November 2024](https://docs.google.com/document/d/e/2PACX-1vQGCUL6fu_YJmvrjvwMsOh4NGS0IUOFCznGMKX086CQzTh7iih3l0kDxIHkrFT8hw8BkJ3pPjmGuhu8/pub)
 
 ## Past Issues
 
+- [October 2024](https://docs.google.com/document/d/e/2PACX-1vRyl7fjTSBwofoa8e4ZnZ6Whp3GO-sirk9ZCEv08FMQVxhV8VTdS5SBpTPOsmHngs2yKdfXXGWve0JO/pub)
 - [September 2024](https://docs.google.com/document/d/14BVlObufdtBngnR_iRMLYNg19Mgw11-5S4nKF3rjzVE/pub)
 - [August 2024](https://docs.google.com/document/d/e/2PACX-1vQiR4cw9x10Vk8lDLUrj1LEvvPG-ehQlZQPcbvWgUL6eTk4ErrnNUgieVFZaB8MHwm-BTrErpKyWLJc/pub)
 - [July 2024](https://docs.google.com/document/d/e/2PACX-1vTnYCIO98mex8UKF7eSwr7yorIyOZlpochbyz6SIcEscm_YLyRGJjq6leHrLawqZ7_FzoGi-QZZrhQt/pub)
