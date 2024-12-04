@@ -54,7 +54,7 @@ Want to help plan or present future webinar sessions?  Contact Michael Eichler -
 
 ## Next Session
 
-RTD Customer-Focused Data Quality: Initiatives and Outstanding Challenges, 2024. Nov 20. Register [here](https://events.gcc.teams.microsoft.com/event/14a15d41-d11a-45be-afa9-3c66bc807553@05182089-2b8a-4c82-864b-aa265b61fa57).
+Stay tuned for webinars in early 2025!
 
 ## Past Sessions
 
@@ -98,10 +98,11 @@ RTD Customer-Focused Data Quality: Initiatives and Outstanding Challenges, 2024.
 
 ## Current Issue
 
-- [November 2024](https://docs.google.com/document/d/e/2PACX-1vQGCUL6fu_YJmvrjvwMsOh4NGS0IUOFCznGMKX086CQzTh7iih3l0kDxIHkrFT8hw8BkJ3pPjmGuhu8/pub)
+- [December 2024](https://docs.google.com/document/d/e/2PACX-1vRReodDraFl4cXVsBDph0WG00OL7HqCSY6k_IdDHTVEF3Xa_6qQdRKjxXbD5eBh-DPXauYvBBA5qc27/pub)
 
 ## Past Issues
 
+- [November 2024](https://docs.google.com/document/d/e/2PACX-1vQGCUL6fu_YJmvrjvwMsOh4NGS0IUOFCznGMKX086CQzTh7iih3l0kDxIHkrFT8hw8BkJ3pPjmGuhu8/pub)
 - [October 2024](https://docs.google.com/document/d/e/2PACX-1vRyl7fjTSBwofoa8e4ZnZ6Whp3GO-sirk9ZCEv08FMQVxhV8VTdS5SBpTPOsmHngs2yKdfXXGWve0JO/pub)
 - [September 2024](https://docs.google.com/document/d/14BVlObufdtBngnR_iRMLYNg19Mgw11-5S4nKF3rjzVE/pub)
 - [August 2024](https://docs.google.com/document/d/e/2PACX-1vQiR4cw9x10Vk8lDLUrj1LEvvPG-ehQlZQPcbvWgUL6eTk4ErrnNUgieVFZaB8MHwm-BTrErpKyWLJc/pub)
