@@ -8,6 +8,10 @@ Welcome to the website for TRB Standing Committee on Transit Data (AP090).
 
 The TRB Standing Committee on Transit Data focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
 
+## Annual Meeting - Virtual
+[RSVP for our on-line annual committee (business) meeting, Tuesday January 14 at noon US Eastern](https://events.teams.microsoft.com/event/204adc43-a70f-48b6-b0f9-181f02fe9f51@ad5836f4-0d74-43cd-83c5-7e69eaa67915)
+- Please Note: Registration will not add the meeting to your calendar.  Please look for the registration confirmation email and open the attached "ICS" file, then save that to your calendar.
+
 ## How to Connect
 
 - **To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433) **
