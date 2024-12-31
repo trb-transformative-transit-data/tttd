@@ -8,9 +8,9 @@ gem "jekyll-theme-leap-day", "~> 0.2.0"
 
 # Jekyll plugins all go inside this group
 group :jekyll_plugins do
-    gem "github-pages", "~> 228"
-    gem "jekyll-spaceship", "~> 0.10.2"
+    gem "github-pages", "~> 232"
+  gem "jekyll-spaceship", "~> 0.10.2"
 end
 
 # Required for Jekyll when Ruby is > 3.0
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
