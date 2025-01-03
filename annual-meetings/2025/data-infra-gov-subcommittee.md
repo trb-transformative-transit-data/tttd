@@ -8,7 +8,7 @@ Transit agencies of all sizes face common challenges with their data systems: fr
 
 - **Date:** Wednesday, January 8th, 2025
 - **Time:** 8:00am–9:45am
-- **Location:** TBD
+- **Location:** Capitol (M4), Marriott Marquis
 
 ## Agenda
 
