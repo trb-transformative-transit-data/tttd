@@ -56,6 +56,7 @@ Inform decision making throughout the transit industry with use of key data and 
 Designated `AP090(1)`, this subcommittee focuses on the practical challenges and practices for implementing modern data infrastructure and governance within transit agencies.
 
 - [Subcommittee Homepage](./subcommittees/data-infra-gov)
+- [Session @ Annual Meeting 2025](./annual-meetings/2025/data-infra-gov-subcommittee)
 - [Kickoff @ Annual Meeting 2024](./annual-meetings/2024/data-infra-gov-subcommittee)
 
 # Webinar Series
