@@ -18,9 +18,26 @@ More specific activites and projects will be discussed at the upcoming TRB Annua
 
 ## Get Involved
 
-- Join us in person at the TRB Annual Meeting in January 2024 (see below)
+- Join us in person at the TRB Annual Meeting in January 2025 (see below)
 - Join us on Slack in [`#trb-ap090-data-infra`](https://mobilitydata-io.slack.com/archives/C05JRCWALH0) under MobilityData's community workspace ([request invitation](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform))
 - [Submit your email address to subscribe to updates or request to join the subcommittee](https://bit.ly/transit-data-infra)
+
+### Volunteer roles
+
+We are looking to recruit two volunteers to pair on each of the following areas
+
+- Monthly newsletter
+- Agency show-and-tell presentations
+- State-of-practice agency surveys
+- Best-practice interviews
+
+### APTA sub-working group
+
+This TRB subcommittee collaborates closely with the APTA sub-working group on Data Standards and Utilization. Where TRB committees and subcommittees focus on research and convening, this APTA sub-working group is charged with publishing guideline and best practice documents. Through these two groups' collaboration, we can continually assess the state of the industry and current practices and develop materials to help agencies move forward efficiently.
+
+## Upcoming Events
+
+- [Session @ Annual Meeting 2025](/annual-meetings/2025/data-infra-gov-subcommittee)
 
 ## Past Events
 
