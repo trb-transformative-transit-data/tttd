@@ -16,5 +16,5 @@ Transit agencies of all sizes face common challenges with their data systems: fr
 |--------|-----------------------------------------------------------------------------------------------------------|
 | 8:00am | <h3>Welcome & Year in Review</h3><ul><li>Subcommittee progress highlights</li><li>Collaboration with APTA</li><li>Meeting overview</li></ul> |
 | 8:15am | <h3>Presentation: Anatomy of a Modern Data Infrastructure</h3><ul><li>Common pain points in legacy systems</li><li>Key components of modern platforms: storage, compute, and tools</li><li>Real-world implementation patterns from Cal-ITP</li><li>Starting small: practical steps toward modernization</li><li>Q&A</li></ul> |
-| 8:55am | <h3>Brainstorming: Roadmap to an Open Source Ecosystem</h3><ul><li>Current landscape analysis</li><li>Gap identification</li><li>Priority areas for development</li><li>Collaborative opportunities</li></ul> |
+| 8:55am | <h3>Brainstorming: Roadmap to an Open Source Ecosystem</h3><ul><li>Break into thematic groups: Data Integration & Standards, Infrastructure Patterns & Tools, Governance & Best Practices</li><li>Identify current tools and approaches</li><li>Map gaps and opportunities</li><li>Define concrete next steps for collaborative development</li></ul> |
 | 9:35am | <h3>Calls to Action & Wrap Up</h3> |

@@ -30,6 +30,7 @@ We are looking to recruit two volunteers to pair on each of the following areas
 - Agency show-and-tell presentations
 - State-of-practice agency surveys
 - Best-practice interviews
+- Project librarian
 
 ### APTA sub-working group
 
