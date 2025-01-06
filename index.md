@@ -22,7 +22,7 @@ The TRB Standing Committee on Transit Data focuses on the generation, processing
 
 ## How to Connect
 
-- **To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433) **
+- **To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
   1. [Visit the AP090 Transit Data Committee on MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
   1. Press the "Become a Friend of this Committee" blue button
 
