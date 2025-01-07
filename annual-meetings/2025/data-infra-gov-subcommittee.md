@@ -2,7 +2,9 @@
 
 [« Return to Annual Meeting 2025](/annual-meetings/2025/) or [AP090(1) homepage](/subcommittees/data-infra-gov/) or [AP090 homepage](/)
 
-Transit agencies of all sizes face common challenges with their data systems: fragmented tools and processes, inconsistent answers to the same questions, brittle systems dependent on individual knowledge, and difficulties adapting to vendor changes. The Data Infrastructure & Governance Subcommittee exists to help bridge these gaps between cutting-edge practices and current agency realities. This session will break down the anatomy of a modern data platform through real-world examples from Cal-ITP, demonstrating how centralized but composable approaches can address common pain points while maintaining flexibility for agency-specific needs. Through collaborative discussion and breakout groups, we'll explore opportunities to develop shared open-source solutions and establish patterns that can help agencies transition from fragmented, ad-hoc processes to robust, maintainable architectures through incremental, practical steps.
+Transit agencies of all sizes face common challenges with their data systems: fragmented tools and processes, inconsistent answers to the same questions, brittle systems dependent on individual knowledge, and difficulties adapting to vendor changes. The Data Infrastructure & Governance Subcommittee exists to help bridge these gaps between cutting-edge practices and current agency realities.
+
+This session will break down the anatomy of a modern data platform through real-world examples from Cal-ITP, demonstrating how centralized but composable approaches can address common pain points while maintaining flexibility for agency-specific needs. Then, through collaborative discussion and breakout groups, we'll explore opportunities to develop shared open-source solutions and establish patterns that can help agencies transition from fragmented, ad-hoc processes to robust, maintainable architectures through incremental, practical steps.
 
 ## Event Details
 
