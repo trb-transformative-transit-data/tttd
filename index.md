@@ -156,10 +156,11 @@ AI in Transit (register [here](https://events.gcc.teams.microsoft.com/event/94c3
 
 ## Meeting Minutes
 
--[Summer 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1CgP8poIO1P7gWUl9pdPtS9t5P9XqEyn7uMji7ccoEcs/edit?usp=sharing)
+- [Summer 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1CgP8poIO1P7gWUl9pdPtS9t5P9XqEyn7uMji7ccoEcs/edit?usp=sharing)
 - [Spring 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1o2f52OupP2QaRjwgclJ92HhyANQxrJjwRkhcvX3uEuM/edit?usp=sharing)
+- [2024 Annual Meeting (virtual/business) Deck and Minutes](https://drive.google.com/file/d/17XayL_7r9qjZVtpn7jrk2MT6WGjbxbkG/view?usp=sharing)
 - [2024 Annual Meeting (in-person)](https://drive.google.com/file/d/1pszWSCLYkmp5JM-fVhukm6gG2Akjc-y_/view?usp=sharing)
--  [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
+- [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1LAVTm4UiGUSNCpwUOhd8RX-JJvVnJak8zUvoZRH8N-w/edit?usp=sharing)
 - [Summer 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1t9vk2cqGXKxeDzJbb6kmBwyCvXTTZ6oxh_weypaVs60/edit?usp=sharing)
 - [2023 Annual Meeting (virtual)](https://docs.google.com/presentation/d/1PNw0Hqpk_mnir3gDCaxUtkMesKO0_uOZTy2Yd3sJxoQ/edit?usp=sharing)
 - [2023 Annual Meeting (in-person)](https://docs.google.com/presentation/d/1mlhOkx8SLKIaTr9GBtmkUTRUQ9DWKlUfk0A1h0DoFtE/edit?usp=sharing)
