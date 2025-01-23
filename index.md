@@ -156,6 +156,8 @@ AI in Transit (register [here](https://events.gcc.teams.microsoft.com/event/94c3
 
 ## Meeting Minutes
 
+- [2025 Annual Meeting (virtual/business) Deck and Minutes](https://docs.google.com/presentation/d/1Jd2mTTbwM4Aco589_Nimfpkema_dKDm81ZIFOQxzY6A/edit?usp=sharing)
+- [Fall 2023 Quarterly Meeting](https://docs.google.com/presentation/d/1xYVsnqkjHf8fns7j_ZgGiux_ld-FcmKM59WDJh1RcBQ/edit?usp=sharing)
 - [Summer 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1CgP8poIO1P7gWUl9pdPtS9t5P9XqEyn7uMji7ccoEcs/edit?usp=sharing)
 - [Spring 2024 Quarterly Meeting](https://docs.google.com/presentation/d/1o2f52OupP2QaRjwgclJ92HhyANQxrJjwRkhcvX3uEuM/edit?usp=sharing)
 - [2024 Annual Meeting (virtual/business) Deck and Minutes](https://drive.google.com/file/d/17XayL_7r9qjZVtpn7jrk2MT6WGjbxbkG/view?usp=sharing)
