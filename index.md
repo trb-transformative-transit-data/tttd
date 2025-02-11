@@ -26,7 +26,7 @@ Stay tuned to [the LinkedIn event page](https://www.linkedin.com/events/ap090tra
 
 ## How to Connect
 
-- **To stay up-to-date on committee webinars and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
+- **To stay up-to-date on committee discussions and other events, sign up as a friend via [MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)**
   1. [Visit the AP090 Transit Data Committee on MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433)
   1. Press the "Become a Friend of this Committee" blue button
 
@@ -38,7 +38,7 @@ Inform decision making throughout the transit industry with use of key data and 
 
 - Document transit data sources (AVL, AFC, GTFS, Surveys, travel demand model outputs, Internet of Things, Location-based Services), tools (Databases, GIS, emerging data science tools, stats packages, BI tools, GTFS-RT Location and Occupancy models), research topics, and data governance issues
 - Document barriers to acquiring, interfacing, and using data
-- Identify, establish, and maintain connections to collaborate on achieving the mission; especially with other relevant TRB committees and external organizations; help organize webinars and workshops
+- Identify, establish, and maintain connections to collaborate on achieving the mission; especially with other relevant TRB committees and external organizations; help organize discussions and workshops
 - Create and maintain a membership path to increase competency in developing and using transit data
 - Develop calls for research in meetings and small group chats
 
@@ -63,15 +63,15 @@ Designated `AP090(1)`, this subcommittee focuses on the practical challenges and
 - [Session @ Annual Meeting 2025](./annual-meetings/2025/data-infra-gov-subcommittee)
 - [Kickoff @ Annual Meeting 2024](./annual-meetings/2024/data-infra-gov-subcommittee)
 
-# Webinar Series
+# Interagency Discussion Series
 
-The committee members and friends host a monthly Inter-Agency Transit Data Webinar series featuring a variety of transit-data topics. To receive invitations to the webinar, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).
+The committee members and friends host a monthly Interagency Discussion series featuring a variety of transit-data topics and designed to build an understanding of transit data research needs. To receive invitations, [Request to join the Slack](https://docs.google.com/forms/d/e/1FAIpQLSczZbZB9ql_Xl-1uBtmvYmA0fwfm1UX92SyWAdkuMEDfxac5w/viewform) and/or [become a friend of the committee via MyTRB](https://www.mytrb.org/OnlineDirectory/Committee/Details/6433).
 
-Want to help plan or present future webinar sessions?  Contact Michael Eichler - meichler at wmata dot com
+Want to help plan or present future discussions?  Contact Michael Eichler - meichler at wmata dot com
 
 ## Next Session
 
-AI in Transit (register [here](https://events.gcc.teams.microsoft.com/event/94c33092-27e8-45f3-9b05-9716498f8317@05182089-2b8a-4c82-864b-aa265b61fa57))
+Natural Language Processing (NLP) at Transport for London (TfL) (register [here](https://events.gcc.teams.microsoft.com/event/ddd0ceee-04fa-4b5e-82f4-1cb7f385ed16@05182089-2b8a-4c82-864b-aa265b61fa57)
 
 ## Past Sessions
 
@@ -115,10 +115,11 @@ AI in Transit (register [here](https://events.gcc.teams.microsoft.com/event/94c3
 
 ## Current Issue
 
-- [January 2025](https://docs.google.com/document/d/e/2PACX-1vT0NgTnN6wFHvtazKdpowKeXrfH8uki0CmvWl4ce0JhK-wRXqMllRiRSHiXIIhZu7El_uDwozA5U_uH/pub)
+- [February 2025](https://docs.google.com/document/d/e/2PACX-1vSds4C-gt-wC4JJ0n84YbIflZvcOAbhmNFWmqHJNzT6AhYtDX5Zh1KNAUnLWrPwEFx4pO9svRd3GCuD/pub)
 
 ## Past Issues
 
+- [January 2025](https://docs.google.com/document/d/e/2PACX-1vT0NgTnN6wFHvtazKdpowKeXrfH8uki0CmvWl4ce0JhK-wRXqMllRiRSHiXIIhZu7El_uDwozA5U_uH/pub) 
 - [December 2024](https://docs.google.com/document/d/e/2PACX-1vRReodDraFl4cXVsBDph0WG00OL7HqCSY6k_IdDHTVEF3Xa_6qQdRKjxXbD5eBh-DPXauYvBBA5qc27/pub)
 - [November 2024](https://docs.google.com/document/d/e/2PACX-1vQGCUL6fu_YJmvrjvwMsOh4NGS0IUOFCznGMKX086CQzTh7iih3l0kDxIHkrFT8hw8BkJ3pPjmGuhu8/pub)
 - [October 2024](https://docs.google.com/document/d/e/2PACX-1vRyl7fjTSBwofoa8e4ZnZ6Whp3GO-sirk9ZCEv08FMQVxhV8VTdS5SBpTPOsmHngs2yKdfXXGWve0JO/pub)
