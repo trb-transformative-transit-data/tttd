@@ -44,7 +44,6 @@ Inform decision making throughout the transit industry with use of key data and 
 
 ## Research
 
-- [TCRP Synthesis Proposals - 2021](research/tcrp_synthesis_2021.md)
 - [Improving Access and Management of Public Transit ITS Data](https://nap.nationalacademies.org/download/26674)
 - [Emerging Data Science for Transit: Market Scan and Feasibility Analysis (Report 0218)](https://www.transit.dot.gov/research-innovation/emerging-data-science-transit-market-scan-and-feasibility-analysis-report-0218)
 
