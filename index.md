@@ -70,11 +70,12 @@ Want to help plan or present future discussions?  Contact Michael Eichler - meic
 
 ## Next Session
 
-Natural Language Processing (NLP) at Transport for London (TfL) (register [here](https://events.gcc.teams.microsoft.com/event/ddd0ceee-04fa-4b5e-82f4-1cb7f385ed16@05182089-2b8a-4c82-864b-aa265b61fa57)
+- Demand-Responsive Transportation Data Standards (Register [here](https://events.gcc.teams.microsoft.com/event/9c24512f-5a81-4600-adaa-39677923e73c@05182089-2b8a-4c82-864b-aa265b61fa57))
 
 ## Past Sessions
 
-- Statewide Measurement of Transit Options, Access, and Equity [slides](https://s3.amazonaws.com/conveyal.com/files/Interagency+Transit+Data+Webinar+%2327+Statewide+Access.pdf)
+- Natural Language Processing (NLP) at Transport for London (TfL)
+- Statewide Measurement of Transit Options, Access, and Equity ([slides](https://s3.amazonaws.com/conveyal.com/files/Interagency+Transit+Data+Webinar+%2327+Statewide+Access.pdf))
 - Real-time crowding data
 - Transit Surveys
 - Transit Data Therapy
@@ -114,10 +115,11 @@ Natural Language Processing (NLP) at Transport for London (TfL) (register [here]
 
 ## Current Issue
 
-- [February 2025](https://docs.google.com/document/d/e/2PACX-1vSds4C-gt-wC4JJ0n84YbIflZvcOAbhmNFWmqHJNzT6AhYtDX5Zh1KNAUnLWrPwEFx4pO9svRd3GCuD/pub)
+- [March 2025](https://docs.google.com/document/d/e/2PACX-1vRQCD7QTgZw0vk67qaLyR8tL5aLMUEf4KNjb35MyGAH7zr5RxQF9ukXSZnq49DArri5MkLBWIfExMPr/pub)
 
 ## Past Issues
 
+- [February 2025](https://docs.google.com/document/d/e/2PACX-1vSds4C-gt-wC4JJ0n84YbIflZvcOAbhmNFWmqHJNzT6AhYtDX5Zh1KNAUnLWrPwEFx4pO9svRd3GCuD/pub)
 - [January 2025](https://docs.google.com/document/d/e/2PACX-1vT0NgTnN6wFHvtazKdpowKeXrfH8uki0CmvWl4ce0JhK-wRXqMllRiRSHiXIIhZu7El_uDwozA5U_uH/pub) 
 - [December 2024](https://docs.google.com/document/d/e/2PACX-1vRReodDraFl4cXVsBDph0WG00OL7HqCSY6k_IdDHTVEF3Xa_6qQdRKjxXbD5eBh-DPXauYvBBA5qc27/pub)
 - [November 2024](https://docs.google.com/document/d/e/2PACX-1vQGCUL6fu_YJmvrjvwMsOh4NGS0IUOFCznGMKX086CQzTh7iih3l0kDxIHkrFT8hw8BkJ3pPjmGuhu8/pub)
