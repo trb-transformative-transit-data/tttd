@@ -70,7 +70,7 @@ Want to help plan or present future discussions?  Contact Michael Eichler - meic
 
 ## Next Session
 
-- Demand-Responsive Transportation Data Standards (Register [here](https://events.gcc.teams.microsoft.com/event/9c24512f-5a81-4600-adaa-39677923e73c@05182089-2b8a-4c82-864b-aa265b61fa57))
+- Do you know yoru workforce? (Register [here](https://events.gcc.teams.microsoft.com/event/ed34d0e1-6ddd-4971-84c3-928edbce946c@05182089-2b8a-4c82-864b-aa265b61fa57))
 
 ## Past Sessions
 
@@ -93,6 +93,7 @@ Want to help plan or present future discussions?  Contact Michael Eichler - meic
 - Multi-Agency Performance Measurement
 - Transit Data Governance featuring MARTA
 - Open Source Tools for Transit Data Infrastructure
+- Demand-Responsive Transportation Data Standards
 - Young Member Spotlight Sessions
   - Advanced geospatial data visualization in Python
   - Bus control strategies
@@ -115,10 +116,11 @@ Want to help plan or present future discussions?  Contact Michael Eichler - meic
 
 ## Current Issue
 
-- [March 2025](https://docs.google.com/document/d/e/2PACX-1vRQCD7QTgZw0vk67qaLyR8tL5aLMUEf4KNjb35MyGAH7zr5RxQF9ukXSZnq49DArri5MkLBWIfExMPr/pub)
+- [April 2025](https://docs.google.com/document/d/e/2PACX-1vSxlhniTE6gf95KWflqjVdtHja0ANOe2IWdSSAbwdXeklj_fUTSHs-RpXmQxtMNG0-ramIJY10iBGcX/pub)
 
 ## Past Issues
 
+- [March 2025](https://docs.google.com/document/d/e/2PACX-1vRQCD7QTgZw0vk67qaLyR8tL5aLMUEf4KNjb35MyGAH7zr5RxQF9ukXSZnq49DArri5MkLBWIfExMPr/pub)
 - [February 2025](https://docs.google.com/document/d/e/2PACX-1vSds4C-gt-wC4JJ0n84YbIflZvcOAbhmNFWmqHJNzT6AhYtDX5Zh1KNAUnLWrPwEFx4pO9svRd3GCuD/pub)
 - [January 2025](https://docs.google.com/document/d/e/2PACX-1vT0NgTnN6wFHvtazKdpowKeXrfH8uki0CmvWl4ce0JhK-wRXqMllRiRSHiXIIhZu7El_uDwozA5U_uH/pub) 
 - [December 2024](https://docs.google.com/document/d/e/2PACX-1vRReodDraFl4cXVsBDph0WG00OL7HqCSY6k_IdDHTVEF3Xa_6qQdRKjxXbD5eBh-DPXauYvBBA5qc27/pub)
