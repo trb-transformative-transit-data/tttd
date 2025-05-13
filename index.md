@@ -70,7 +70,7 @@ Want to help plan or present future discussions?  Contact Michael Eichler - meic
 
 ## Next Session
 
-- Do you know yoru workforce? (Register [here](https://events.gcc.teams.microsoft.com/event/ed34d0e1-6ddd-4971-84c3-928edbce946c@05182089-2b8a-4c82-864b-aa265b61fa57))
+- June 25, 2025. Details coming soon.
 
 ## Past Sessions
 
@@ -116,10 +116,11 @@ Want to help plan or present future discussions?  Contact Michael Eichler - meic
 
 ## Current Issue
 
-- [April 2025](https://docs.google.com/document/d/e/2PACX-1vSxlhniTE6gf95KWflqjVdtHja0ANOe2IWdSSAbwdXeklj_fUTSHs-RpXmQxtMNG0-ramIJY10iBGcX/pub)
+- [May 2025](https://docs.google.com/document/d/e/2PACX-1vT1DvtG2fhqBqn9vGbFrXKhQg1ACkNm1_te4Uenlcis4bY-Guvek9fwaG1F7Eiaglh9-2NDJh3Wilmf/pub)
 
 ## Past Issues
 
+- [April 2025](https://docs.google.com/document/d/e/2PACX-1vSxlhniTE6gf95KWflqjVdtHja0ANOe2IWdSSAbwdXeklj_fUTSHs-RpXmQxtMNG0-ramIJY10iBGcX/pub)
 - [March 2025](https://docs.google.com/document/d/e/2PACX-1vRQCD7QTgZw0vk67qaLyR8tL5aLMUEf4KNjb35MyGAH7zr5RxQF9ukXSZnq49DArri5MkLBWIfExMPr/pub)
 - [February 2025](https://docs.google.com/document/d/e/2PACX-1vSds4C-gt-wC4JJ0n84YbIflZvcOAbhmNFWmqHJNzT6AhYtDX5Zh1KNAUnLWrPwEFx4pO9svRd3GCuD/pub)
 - [January 2025](https://docs.google.com/document/d/e/2PACX-1vT0NgTnN6wFHvtazKdpowKeXrfH8uki0CmvWl4ce0JhK-wRXqMllRiRSHiXIIhZu7El_uDwozA5U_uH/pub) 
