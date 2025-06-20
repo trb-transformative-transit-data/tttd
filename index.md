@@ -4,9 +4,15 @@ title: TRB Standing Committee on Transit Data - AP090
 
 # Home
 
-Welcome to the website for TRB Standing Committee on Transit Data (AP090).
+Welcome to the website for the former TRB Standing Committee on Transit Data (AP090).
 
-The TRB Standing Committee on Transit Data focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
+Until 2025, the TRB Standing Committee on Transit Data focused on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
+
+**This site is being preserved to archive past activities**.
+
+## On June 4 2025, TRB dissolved all standing technical committees.##
+
+TRB formed a reduced set of standing committees, and **interested parties have until June 27 2025 to [express interest in membership](https://volunteer.mytrb.org/Committee/AvailableStandingCommittees)**. While many committees will continue (see the new AP017 Standing Committee on Transit Data and Emerging Technologies), **committee-level support for sustainability and equity has been eliminated**. Previous chairs of committees focused on sustainability are requesting ideas about next steps through [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfyF8a9-k-JJWVH1WK1lt-974DshQvK17Io-cY9aU5cajYtIQ/viewform), and the data/modeling community may also be interested in [these perspectives](https://www.trbtravelforecasting.org/letter-from-chair) from the former AEP50 chair.
 
 ## 2025 Annual Meeting
 
